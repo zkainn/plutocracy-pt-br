@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<story>
+  <episode_10>
+    <text id="description" need_translate="false" value="John Harrison planeja expandir seus negócios por todos os Estados Unidos. Para garantir que as novas empresas tenham vantagem sobre os concorrentes em outros estados, ele decide criar um truste. Isso deve aumentar a eficiência do desenvolvimento tecnológico tanto das refinarias antigas quanto das novas sob seu controle, sem deixar chance aos concorrentes."/>
+    <text id="name" need_translate="false" value="Episódio 10"/>
+  </episode_10>
+  <episode_1>
+    <text id="description" need_translate="false" value="John Harrison assume o comando da petrolífera deficitária do pai. Ele pretende salvar a empresa da falência ajustando os processos internos e quitando as dívidas de empréstimos da empresa."/>
+    <text id="name" need_translate="false" value="Episódio 1. Velhos empréstimos."/>
+    <text id="subtarget_1_1_1" need_translate="false" value="Vá até &quot;{statistics}&quot; da &quot;Harrison Oil&quot;."/>
+    <text id="subtarget_1_1_2" need_translate="false" value="Altere um dos parâmetros da empresa: salário do trabalhador, meta diária, número de trabalhadores, nível de pesquisa, valor dos dividendos."/>
+    <text id="subtarget_1_1_3" need_translate="false" value="Mude a tecnologia em desenvolvimento na Harrison Oil"/>
+    <text id="subtarget_1_1_4" need_translate="false" value="Quite todos os empréstimos da Harrison Oil e evite a falência."/>
+    <text id="subtarget_1_2_1" need_translate="false" value="Compre qualquer quantidade de ações de qualquer empresa."/>
+    <text id="subtarget_1_2_2" need_translate="false" value="Venda as ações compradas quando o preço de compra superar o preço de venda."/>
+    <text id="subtarget_1_2_3" need_translate="false" value="Continue negociando até que o lucro total de todas as operações no histórico de transações seja de pelo menos {sum}"/>
+    <text id="target_1_1" need_translate="false" value="Aprenda a administrar uma empresa e tire a {fathers_company} da crise"/>
+    <text id="target_1_2" need_translate="false" value="Ganhe pelo menos {sum} negociando ações"/>
+    <text id="target_1_3" need_translate="false" value="Gerenciando os indicadores e desenvolvendo tecnologias, eleve a receita da Harrison Oil para {obj1_revenue} por trimestre."/>
+  </episode_1>
+  <episode_11>
+    <text id="description" need_translate="false" value="Ignorando as ameaças dos concorrentes, John Harrison saiu do estado e cruzou a linha invisível. Por um erro dos executores em uma tentativa de assassinato, Judith morreu queimada no incêndio no lugar de Ford. Uma desgraça nunca vem sozinha. Os concorrentes, usando seus contatos no Congresso dos EUA, estão pressionando pela aprovação de uma lei antitruste. Sua aprovação causará perdas enormes a um monopólio conquistado a duras penas. Ele precisa impedir a aprovação da lei antitruste e tirar todos os políticos hostis do Congresso dos EUA."/>
+    <text id="name" need_translate="false" value="Episódio 11"/>
+  </episode_11>
+  <episode_12>
+    <text id="description" need_translate="false" value="John Harrison decide acabar com a Evil Corp. Para isso, organiza seu próprio cartel e atrai os membros do cartel da Evil Corp, desmantelando na prática o cartel rival."/>
+    <text id="name" need_translate="false" value="Episódio 12"/>
+  </episode_12>
+  <episode_13>
+    <text id="description" need_translate="false" value="Harrison interrompe as entregas da Evil Corp comprando as empresas de transporte que prestam serviços de entrega aos concorrentes. A corporação leva um golpe decisivo, que a leva à falência."/>
+    <text id="name" need_translate="false" value="Episódio 13"/>
+  </episode_13>
+  <episode_14>
+    <text id="description" need_translate="false" value="Concorrentes derrotados. John Harrison tenta atrasar a aprovação da lei antitruste. Ele usa a imprensa para desacreditar a lei e ganhar tempo para vender todos os seus ativos a um preço ainda alto."/>
+    <text id="name" need_translate="false" value="Episódio 14"/>
+  </episode_14>
+  <episode_2>
+    <text id="description" need_translate="false" value="Depois de quitar as dívidas, John Harrison vai expandir a empresa. Para isso, quer criar novos postos de trabalho. Para acelerar o processo, decide pegar dinheiro emprestado com velhos colegas de escola em vez de economizar por muito tempo."/>
+    <text id="name" need_translate="false" value="Episódio 2. Expansão."/>
+    <text id="target_2_1" need_translate="false" value="Aumente o número de postos de trabalho da {mc_sc_name} para {obj21_workplaces} usando a ordem &quot;Expansão da empresa&quot; em {management} da &quot;Harrison Oil&quot;."/>
+    <text id="target_2_2" need_translate="false" value="Visite {person_1} (Illinois), {person_2} (Flórida) ou {person_3} (Califórnia) e obtenha deles empréstimos para a &quot;Harrison Oil&quot; no valor total de pelo menos {obj2_friendsloans}, sem perder lealdade."/>
+    <text id="target_2_3" need_translate="false" value="Abra um escritório na Pensilvânia para administrar sua empresa mesmo quando estiver fora."/>
+  </episode_2>
+  <episode_3>
+    <text id="description" need_translate="false" value="Insatisfeito com o ritmo de expansão da empresa, John Harrison decide comprar uma das empresas rivais do estado. Sua escolha recai sobre a &quot;Drake &amp; Sons&quot;, pois os ativos dela são baratos. A &quot;Drake &amp; Sons&quot; tem ótimas jazidas, mas está em péssimo estado. O problema são os acionistas da empresa, o velho Drake e seus 2 filhos, que precisam ser convencidos a vender as ações antes que encontrem outro comprador."/>
+    <text id="name" need_translate="false" value="Episódio 3. Bons vizinhos"/>
+    <text id="subtarget_3_1_1" need_translate="false" value="Compre pelo menos {shares} das ações da empresa &quot;{company}&quot;."/>
+    <text id="subtarget_3_1_2" need_translate="false" value="Acumule {sum} em {reserves} da &quot;Harrison Oil&quot; para indenizar os acionistas pelo valor de suas ações durante a aquisição da empresa &quot;{company}&quot;."/>
+    <text id="subtarget_3_1_3" need_translate="false" value="Conclua com sucesso a aquisição da &quot;Drake &amp; Sons&quot; dando uma ordem em {management2} da &quot;Harrison Oil&quot;."/>
+    <text id="subtarget_3_2_1" need_translate="false" value="Conquiste a lealdade total de {person_1}"/>
+    <text id="subtarget_3_2_2" need_translate="false" value="Conquiste a lealdade total de {person_2}"/>
+    <text id="subtarget_3_2_3" need_translate="false" value="Conquiste a lealdade total de {person_3}"/>
+    <text id="subtarget_3_3_1" need_translate="false" value="Obtenha o agente &quot;Cortesã&quot; como recompensa por realizar a ambição de qualquer personagem."/>
+    <text id="subtarget_3_3_2" need_translate="false" value="Use com sucesso o agente &quot;Cortesã&quot; em qualquer um dos Drake."/>
+    <text id="target_3_1" need_translate="false" value="Absorva a empresa concorrente &quot;{company}&quot;."/>
+    <text id="target_3_2" need_translate="false" value="Realizando ambições ou usando o agente &quot;Bispo&quot;, eleve ao máximo a lealdade de todos os membros da família Drake para obter a duração máxima das negociações."/>
+    <text id="target_3_3" need_translate="false" value="Reduza as habilidades de qualquer um dos Drake antes das negociações com a ajuda do agente &quot;Cortesã&quot;."/>
+  </episode_3>
+  <episode_4>
+    <text id="description" need_translate="false" value="A empresa está crescendo, e é hora de expulsar a concorrência do estado. John Harrison precisa fundir todas as petrolíferas antes que os concorrentes o façam. Ele decide comprar todas as outras empresas e se fundir com elas para criar um monopólio da produção de petróleo no estado."/>
+    <text id="name" need_translate="false" value="Episódio 4. O rei da colina."/>
+    <text id="subtarget_4_1_1" need_translate="false" value="Compre o controle acionário de petrolíferas e funda-se com elas para alcançar pelo menos {obj4_marketstake} do mercado de produção de petróleo da Pensilvânia."/>
+    <text id="subtarget_4_1_2" need_translate="false" value="Mantenha pelo menos {obj4_companytstake} das ações da Harrison Oil após todas as fusões."/>
+    <text id="subtarget_4_2_1" need_translate="false" value="Torne-se o maior acionista da {bigest_company}"/>
+    <text id="subtarget_4_2_2" need_translate="false" value="Acumule influência suficiente para pressionar os acionistas da {bigest_company} durante a votação da fusão."/>
+    <text id="subtarget_4_2_3" need_translate="false" value="Inicie o procedimento de fusão da &quot;Harrison Oil&quot; com a {bigest_company} dando uma ordem em {management2} da &quot;Harrison Oil&quot;."/>
+    <text id="subtarget_4_2_4" need_translate="false" value="Conclua com sucesso a fusão da &quot;Harrison Oil&quot; com a {bigest_company}, obrigando os outros acionistas a concordar na votação da fusão."/>
+    <text id="target_4_1" need_translate="false" value="Crie um monopólio da {mc_sc_name} no mercado de produção de petróleo da Pensilvânia."/>
+    <text id="target_4_2" need_translate="false" value="Incorpore à &quot;Harrison Oil&quot; a {bigest_company}, a maior petrolífera da Pensilvânia, sem comprar o controle acionário dela."/>
+    <text id="target_4_3" need_translate="false" value="Compre, durante as negociações, um total de pelo menos {obj4_cheepshares} ações de quaisquer petrolíferas da Pensilvânia abaixo do valor de mercado."/>
+  </episode_4>
+  <episode_5>
+    <text id="description" need_translate="false" value="Os preços do petróleo bruto caíram bastante. Velhos amigos de John Harrison abriram uma refinaria e propõem que ele entre na nova holding: transferir o controle da &quot;Harrison Oil&quot; e receber 25% de participação na refinaria, além do cargo de CEO na empresa controladora."/>
+    <text id="name" need_translate="false" value="Episódio 5"/>
+  </episode_5>
+  <episode_6>
+    <text id="description" need_translate="false" value="Com a pressão crescente dos banqueiros, surgem conflitos entre os sócios. John Harrison decide comprar a parte dos amigos na holding. Para que Eddie aceite vender sua parte, é preciso ajudar Alvarez a ganhar uma cadeira no Legislativo do estado da Pensilvânia."/>
+    <text id="name" need_translate="false" value="Episódio 6"/>
+  </episode_6>
+  <episode_7>
+    <text id="description" need_translate="false" value="O chefe de polícia corrupto se recusa a investigar o assassinato de Eddie. Ryan entra em pânico, entrega sua parte das ações a John e foge do país. John Harrison, em busca de justiça, investiga e consegue podres sobre o Chefe. Depois, conquista o apoio do promotor local, entrega a ele as provas reunidas e consegue a demissão do Chefe. Henry, sem proteção, é obrigado a vender sua parte e fugir para um destino desconhecido."/>
+    <text id="name" need_translate="false" value="Episódio 7"/>
+  </episode_7>
+  <episode_8>
+    <text id="description" need_translate="false" value="Harrison recebe uma notificação do governador exigindo que ele desocupe o quanto antes os terrenos ocupados pelas empresas da holding. John decide tirar o governador do cargo por meio de um impeachment para manter a holding."/>
+    <text id="name" need_translate="false" value="Episódio 8"/>
+  </episode_8>
+  <episode_9>
+    <text id="description" need_translate="false" value="Furiosos com a perda de um peão importante, os concorrentes organizam greves e acidentes nas empresas controladas pela holding de Harrison. Usando suas ligações com as autoridades estaduais, John precisa resistir aos ataques, mantendo e até aumentando seu controle sobre a indústria petrolífera do estado."/>
+    <text id="name" need_translate="false" value="Episódio 9"/>
+  </episode_9>
+  <links>
+    <text id="fathers_company" need_translate="false" value="empresa do pai"/>
+    <text id="management" need_translate="false" value="Gestão"/>
+    <text id="management2" need_translate="false" value="Gestão"/>
+    <text id="reserves" need_translate="false" value="reservas"/>
+    <text id="statistics" need_translate="false" value="Estatísticas"/>
+  </links>
+</story>

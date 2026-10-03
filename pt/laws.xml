@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laws>
+  <law_0>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Agora, em todo o país, o funcionário demitido receberá uma indenização de {value}% do salário médio."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora, o funcionário demitido receberá uma indenização de {value}% do salário médio."/>
+    <text id="description" need_translate="false" value="Ao demitir um funcionário, a empresa será obrigada a pagar-lhe uma indenização de {severance_payments}% do salário médio do estado."/>
+    <text id="extended_name" need_translate="false" value="Instituir a obrigação de pagar indenização trabalhista na demissão"/>
+    <text id="name" need_translate="false" value="Verbas rescisórias"/>
+    <text id="short_description" need_translate="false" value="Pagamento obrigatório"/>
+  </law_0>
+  <law_10>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Com o fortalecimento da proteção aos direitos dos trabalhadores, prevê-se um aumento de {value}% no risco de greves."/>
+    <text id="description" need_translate="false" value="Os sindicatos receberão mais direitos e poderes, e com isso o risco de greves aumentará {strike_risk}%."/>
+    <text id="extended_name" need_translate="false" value="Fortalecer o papel dos sindicatos nas empresas"/>
+    <text id="name" need_translate="false" value="Alterar o papel dos sindicatos nas empresas"/>
+    <text id="short_description" need_translate="false" value="Fortalecer o papel"/>
+  </law_10>
+  <law_1>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. As empresas não são mais obrigadas a pagar indenização aos trabalhadores demitidos, a menos que isso contrarie a lei estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. As empresas não são mais obrigadas a pagar indenização aos trabalhadores demitidos."/>
+    <text id="description" need_translate="false" value="A obrigação das empresas de pagar indenização ao demitir trabalhadores será abolida."/>
+    <text id="extended_name" need_translate="false" value="Abolir a obrigação de pagar indenização trabalhista na demissão"/>
+    <text id="name" need_translate="false" value="Verbas rescisórias"/>
+    <text id="short_description" need_translate="false" value="Pagamento opcional"/>
+  </law_1>
+  <law_11>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Com o enfraquecimento da proteção aos direitos dos trabalhadores, prevê-se uma redução de {value}% no risco de greves."/>
+    <text id="description" need_translate="false" value="Os sindicatos terão seus direitos restringidos e parte de seus poderes cortada, o que reduzirá o risco de greves em {strike_risk}%."/>
+    <text id="extended_name" need_translate="false" value="Enfraquecer o papel dos sindicatos nas empresas"/>
+    <text id="name" need_translate="false" value="Alterar o papel dos sindicatos nas empresas"/>
+    <text id="short_description" need_translate="false" value="Enfraquecer o papel"/>
+  </law_11>
+  <law_12>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Agora, em todo o país, os empregadores são obrigados a pagar aos trabalhadores salários de {value}% do salário médio."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora as empresas são obrigadas a pagar aos funcionários pelo menos $ {value} do salário médio."/>
+    <text id="description" need_translate="false" value="As empresas serão obrigadas a pagar aos funcionários um salário mínimo de pelo menos {minimum_wage}% do salário médio do estado."/>
+    <text id="extended_name" need_translate="false" value="Instituir o salário mínimo"/>
+    <text id="name" need_translate="false" value="Salário mínimo"/>
+    <text id="short_description" need_translate="false" value="Valor mínimo definido"/>
+  </law_12>
+  <law_13>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. As empresas não são mais obrigadas a pagar o salário mínimo aos funcionários, a menos que isso contrarie a lei estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora as empresas são livres para definir o valor mínimo pelo qual remuneram o trabalho dos funcionários."/>
+    <text id="description" need_translate="false" value="A obrigação das empresas de pagar salário mínimo aos funcionários será cancelada."/>
+    <text id="extended_name" need_translate="false" value="Remover as restrições ao salário mínimo"/>
+    <text id="name" need_translate="false" value="Salário mínimo"/>
+    <text id="short_description" need_translate="false" value="Sem valor mínimo definido"/>
+  </law_13>
+  <law_14>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os funcionários das empresas agora podem esperar receber salários de pelo menos {value}% do salário médio."/>
+    <text id="description" need_translate="false" value="O salário mínimo pago pelas empresas aos funcionários será aumentado para {minimum_wage}% do salário médio do estado."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o salário mínimo"/>
+    <text id="name" need_translate="false" value="Valor do salário mínimo"/>
+    <text id="short_description" need_translate="false" value="Aumentar o valor do salário"/>
+  </law_14>
+  <law_15>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os funcionários das empresas agora podem esperar receber salários de pelo menos {value}% do salário médio."/>
+    <text id="description" need_translate="false" value="O salário mínimo pago pelas empresas aos funcionários será reduzido para {minimum_wage}% do salário médio do estado."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o salário mínimo"/>
+    <text id="name" need_translate="false" value="Valor do salário mínimo"/>
+    <text id="short_description" need_translate="false" value="Reduzir o valor do salário"/>
+  </law_15>
+  <law_16>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que isso levará a um aumento de {value}% no nível de instrução do estado."/>
+    <text id="description" need_translate="false" value="O nível de instrução do estado crescerá {change_percents}% graças à melhoria da qualidade do ensino, o que aumentará a produtividade dos trabalhadores."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o investimento em educação"/>
+    <text id="name" need_translate="false" value="Investimento em educação"/>
+    <text id="short_description" need_translate="false" value="Aumentar o investimento"/>
+  </law_16>
+  <law_17>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que isso levará a uma queda de {value}% no nível de instrução do estado."/>
+    <text id="description" need_translate="false" value="O nível de instrução do estado cairá {change_percents}% devido à piora da qualidade do ensino, o que reduzirá a produtividade dos trabalhadores."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o investimento em educação"/>
+    <text id="name" need_translate="false" value="Investimento em educação"/>
+    <text id="short_description" need_translate="false" value="Reduzir o investimento"/>
+  </law_17>
+  <law_18>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que isso levará a um aumento de {value}% no crescimento populacional do estado."/>
+    <text id="description" need_translate="false" value="Com a melhoria da qualidade da assistência médica, haverá queda da mortalidade e aumento da natalidade, o que levará a um aumento de {change_percents}% da população."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o investimento em saúde"/>
+    <text id="name" need_translate="false" value="Investimento em saúde"/>
+    <text id="short_description" need_translate="false" value="Aumentar o investimento"/>
+  </law_18>
+  <law_19>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que isso levará a uma queda de {value}% no crescimento populacional do estado."/>
+    <text id="description" need_translate="false" value="Com a piora da qualidade da assistência médica, haverá aumento da mortalidade e queda da natalidade, o que levará a uma redução de {change_percents}% da população."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o investimento em saúde"/>
+    <text id="name" need_translate="false" value="Investimento em saúde"/>
+    <text id="short_description" need_translate="false" value="Reduzir o investimento"/>
+  </law_19>
+  <law_20>
+    <text id="applied_federal_name" need_translate="false" value="Foi aprovada nos Estados Unidos a lei federal &quot;{law}&quot;. As empresas que detêm mais da metade do mercado de um estado não precisam mais se preocupar em dividir seus possíveis lucros excessivos."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="As empresas que detêm mais da metade do mercado de um estado não serão mais obrigadas a pagar ao tesouro estadual uma multa de {penalty}% da receita."/>
+    <text id="extended_name" need_translate="false" value="Remover as multas aos monopólios"/>
+    <text id="name" need_translate="false" value="Restrições às atividades dos monopólios"/>
+    <text id="short_description" need_translate="false" value="Restrição definida"/>
+  </law_20>
+  <law_2>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora, o funcionário demitido receberá uma indenização de {value}% do salário médio."/>
+    <text id="description" need_translate="false" value="O valor da indenização paga pela empresa ao funcionário na rescisão do contrato será aumentado para {severance_payments}% do salário médio do estado."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o valor da indenização trabalhista na demissão"/>
+    <text id="name" need_translate="false" value="Valor da indenização"/>
+    <text id="short_description" need_translate="false" value="Aumentar o valor da indenização"/>
+  </law_2>
+  <law_21>
+    <text id="applied_federal_name" need_translate="false" value="Foi aprovada nos Estados Unidos a lei federal &quot;{law}&quot;. As empresas que detêm mais da metade do mercado de um estado vão passar por maus bocados, pois agora são obrigadas a pagar uma multa trimestral de {value}% da receita."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="As empresas que detêm mais da metade do mercado de um estado serão obrigadas a pagar ao tesouro estadual uma multa de {penalty}% da receita."/>
+    <text id="extended_name" need_translate="false" value="Instituir multas aos monopólios"/>
+    <text id="name" need_translate="false" value="Restrições às atividades dos monopólios"/>
+    <text id="short_description" need_translate="false" value="Sem restrição"/>
+  </law_21>
+  <law_22>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. {old_person} já deixou o cargo e foi substituído por {new_person}."/>
+    <text id="description" need_translate="false" value="O legislativo aprovará um voto de desconfiança contra o governador em exercício. O governador será destituído e outro personagem assumirá o lugar dele."/>
+    <text id="extended_name" need_translate="false" value="Destituir o governador {person_name}"/>
+    <text id="name" need_translate="false" value="Impeachment"/>
+    <text id="short_description" need_translate="false" value="Destituir o Governador"/>
+  </law_22>
+  <law_23>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. {old_person} já deixou o cargo e foi substituído por {new_person}."/>
+    <text id="description" need_translate="false" value="O governador será obrigado a demitir o promotor do estado por perda de confiança. Outro personagem assumirá o lugar dele."/>
+    <text id="extended_name" need_translate="false" value="Destituir o promotor {person_name}"/>
+    <text id="name" need_translate="false" value="Impeachment"/>
+    <text id="short_description" need_translate="false" value="Destituir o Promotor"/>
+  </law_23>
+  <law_24>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. {old_person} já deixou o cargo e foi substituído por {new_person}."/>
+    <text id="description" need_translate="false" value="O governador será obrigado a demitir o chefe de polícia do estado por perda de confiança. Outro personagem assumirá o lugar dele."/>
+    <text id="extended_name" need_translate="false" value="Destituir o chefe de polícia {person_name}"/>
+    <text id="name" need_translate="false" value="Impeachment"/>
+    <text id="short_description" need_translate="false" value="Destituir o Chefe de Polícia"/>
+  </law_24>
+  <law_25>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. {old_person} já deixou o cargo e foi substituído por {new_person}."/>
+    <text id="description" need_translate="false" value="O governador será obrigado a demitir o tesoureiro do estado por perda de confiança. Outro personagem assumirá o lugar dele."/>
+    <text id="extended_name" need_translate="false" value="Destituir o tesoureiro {person_name}"/>
+    <text id="name" need_translate="false" value="Impeachment"/>
+    <text id="short_description" need_translate="false" value="Destituir o Tesoureiro"/>
+  </law_25>
+  <law_26>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A alíquota do imposto de renda agora é de {value}%."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A alíquota do imposto de renda agora é de {value}%."/>
+    <text id="description" need_translate="false" value="A alíquota do imposto de renda será elevada para {tax}%. Isso aumentará a carga tributária dos cidadãos."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de renda"/>
+    <text id="name" need_translate="false" value="Imposto de renda"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_26>
+  <law_27>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A alíquota do imposto de renda agora é de {value}%."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A alíquota do imposto de renda agora é de {value}%."/>
+    <text id="description" need_translate="false" value="A alíquota do imposto de renda será reduzida para {tax}%. Isso diminuirá a carga tributária dos cidadãos."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de renda"/>
+    <text id="name" need_translate="false" value="Imposto de renda"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_27>
+  <law_28>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A alíquota do imposto corporativo agora é de {value}%."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A alíquota do imposto corporativo agora é de {value}%."/>
+    <text id="description" need_translate="false" value="A alíquota do imposto corporativo será elevada para {tax}%. Isso aumentará a carga tributária das empresas, o que afetará negativamente os lucros e os dividendos futuros."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto corporativo"/>
+    <text id="name" need_translate="false" value="Imposto corporativo"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_28>
+  <law_29>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A alíquota do imposto corporativo agora é de {value}%."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A alíquota do imposto corporativo agora é de {value}%."/>
+    <text id="description" need_translate="false" value="A alíquota do imposto corporativo será reduzida para {tax}%. Isso diminuirá a carga tributária das empresas, o que terá um efeito positivo nos lucros e nos dividendos futuros."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto corporativo"/>
+    <text id="name" need_translate="false" value="Imposto corporativo"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_29>
+  <law_30>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, as mulheres de todo o país conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, as mulheres do estado de {state} conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="description" need_translate="false" value="O direito de voto das mulheres será permitido. Em {state}, os candidatos poderão aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito das mulheres de votar nas eleições"/>
+    <text id="name" need_translate="false" value="Direito de voto das mulheres"/>
+    <text id="short_description" need_translate="false" value="Voto permitido"/>
+  </law_30>
+  <law_3>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora, o funcionário demitido receberá uma indenização de {value}% do salário médio."/>
+    <text id="description" need_translate="false" value="O valor da indenização paga pela empresa ao funcionário na rescisão do contrato será reduzido para {severance_payments}% do salário médio do estado."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o valor da indenização trabalhista na demissão"/>
+    <text id="name" need_translate="false" value="Valor da indenização"/>
+    <text id="short_description" need_translate="false" value="Reduzir o valor da indenização"/>
+  </law_3>
+  <law_31>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito das mulheres de votar nas eleições está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, as mulheres do estado de {state} não podem mais participar da vida política por meio do voto, o que a maioria considera uma violação flagrante dos direitos humanos."/>
+    <text id="description" need_translate="false" value="O direito de voto das mulheres será abolido. Em {state}, os candidatos serão proibidos de aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito das mulheres de votar nas eleições"/>
+    <text id="name" need_translate="false" value="Direito de voto das mulheres"/>
+    <text id="short_description" need_translate="false" value="Voto proibido"/>
+  </law_31>
+  <law_32>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, as mulheres de todo o país finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, as mulheres do estado de {state} finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="description" need_translate="false" value="O direito das mulheres de serem eleitas será permitido. As mulheres de {state} poderão se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito das mulheres de serem eleitas"/>
+    <text id="name" need_translate="false" value="Direito das mulheres de serem eleitas"/>
+    <text id="short_description" need_translate="false" value="Permitido ser eleito"/>
+  </law_32>
+  <law_33>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito das mulheres de serem eleitas em todo o país está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, as mulheres do estado de {state} não poderão mais se candidatar a cargos, o que provavelmente causará grande descontentamento nesse grupo social."/>
+    <text id="description" need_translate="false" value="Se o projeto for aprovado, as mulheres não poderão mais se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito das mulheres de serem eleitas"/>
+    <text id="name" need_translate="false" value="Direito das mulheres de serem eleitas"/>
+    <text id="short_description" need_translate="false" value="Proibido ser eleito"/>
+  </law_33>
+  <law_34>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, os ateus de todo o país conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os ateus do estado de {state} conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="description" need_translate="false" value="O direito de voto dos ateus será permitido. Em {state}, os candidatos poderão aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito dos ateus de votar nas eleições"/>
+    <text id="name" need_translate="false" value="Direito de voto dos ateus"/>
+    <text id="short_description" need_translate="false" value="Voto permitido"/>
+  </law_34>
+  <law_35>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito dos ateus de votar nas eleições está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os ateus do estado de {state} não podem mais participar da vida política por meio do voto, o que a maioria considera uma violação flagrante dos direitos humanos."/>
+    <text id="description" need_translate="false" value="O direito de voto dos ateus será abolido. Em {state}, os candidatos serão proibidos de aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito dos ateus de votar nas eleições"/>
+    <text id="name" need_translate="false" value="Direito de voto dos ateus"/>
+    <text id="short_description" need_translate="false" value="Voto proibido"/>
+  </law_35>
+  <law_36>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, os ateus de todo o país finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os ateus do estado de {state} finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="description" need_translate="false" value="O direito dos ateus de serem eleitos será permitido. Os ateus de {state} poderão se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito dos ateus de serem eleitos"/>
+    <text id="name" need_translate="false" value="Direito dos ateus de serem eleitos"/>
+    <text id="short_description" need_translate="false" value="Permitido ser eleito"/>
+  </law_36>
+  <law_37>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito dos ateus de serem eleitos em todo o país está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os ateus do estado de {state} não poderão mais se candidatar a cargos, o que provavelmente causará grande descontentamento nesse grupo social."/>
+    <text id="description" need_translate="false" value="Se o projeto for aprovado, os ateus não poderão mais se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito dos ateus de serem eleitos"/>
+    <text id="name" need_translate="false" value="Direito dos ateus de serem eleitos"/>
+    <text id="short_description" need_translate="false" value="Proibido ser eleito"/>
+  </law_37>
+  <law_38>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, os afro-americanos de todo o país conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os afro-americanos do estado de {state} conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="description" need_translate="false" value="O direito de voto dos afro-americanos será permitido. Em {state}, os candidatos poderão aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito dos afro-americanos de votar nas eleições"/>
+    <text id="name" need_translate="false" value="Direito de voto dos afro-americanos"/>
+    <text id="short_description" need_translate="false" value="Voto permitido"/>
+  </law_38>
+  <law_39>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito dos afro-americanos de votar nas eleições está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os afro-americanos do estado de {state} não podem mais participar da vida política por meio do voto, o que a maioria considera uma violação flagrante dos direitos humanos."/>
+    <text id="description" need_translate="false" value="O direito de voto dos afro-americanos será abolido. Em {state}, os candidatos serão proibidos de aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito dos afro-americanos de votar nas eleições"/>
+    <text id="name" need_translate="false" value="Direito de voto dos afro-americanos"/>
+    <text id="short_description" need_translate="false" value="Voto proibido"/>
+  </law_39>
+  <law_40>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, os afro-americanos de todo o país finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os afro-americanos do estado de {state} finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="description" need_translate="false" value="O direito dos afro-americanos de serem eleitos será permitido. Os afro-americanos de {state} poderão se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito dos afro-americanos de serem eleitos"/>
+    <text id="name" need_translate="false" value="Direito dos afro-americanos de serem eleitos"/>
+    <text id="short_description" need_translate="false" value="Permitido ser eleito"/>
+  </law_40>
+  <law_4>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A jornada máxima de trabalho agora é de {working_hours} horas, o que deve aumentar a produtividade dos trabalhadores em {value}%."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A jornada máxima de trabalho será aumentada para {working_hours} horas, o que elevará a produtividade dos trabalhadores em {change_percents}%."/>
+    <text id="extended_name" need_translate="false" value="Aumentar a duração da jornada de trabalho"/>
+    <text id="name" need_translate="false" value="Jornada de trabalho"/>
+    <text id="short_description" need_translate="false" value="Aumentar a jornada"/>
+  </law_4>
+  <law_41>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito dos afro-americanos de serem eleitos em todo o país está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os afro-americanos do estado de {state} não poderão mais se candidatar a cargos, o que provavelmente causará grande descontentamento nesse grupo social."/>
+    <text id="description" need_translate="false" value="Se o projeto for aprovado, os negros não poderão mais se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito dos afro-americanos de serem eleitos"/>
+    <text id="name" need_translate="false" value="Direito dos afro-americanos de serem eleitos"/>
+    <text id="short_description" need_translate="false" value="Proibido ser eleito"/>
+  </law_41>
+  <law_42>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, os analfabetos de todo o país conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os analfabetos do estado de {state} conquistaram o tão esperado direito de participar da vida política por meio do voto, e os candidatos terão de se esforçar para conquistar a confiança desse grupo eleitoral."/>
+    <text id="description" need_translate="false" value="O direito de voto dos analfabetos será permitido. Em {state}, os candidatos poderão aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito de voto dos analfabetos"/>
+    <text id="name" need_translate="false" value="Direito de voto dos analfabetos"/>
+    <text id="short_description" need_translate="false" value="Voto permitido"/>
+  </law_42>
+  <law_43>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito dos analfabetos de votar nas eleições está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os analfabetos do estado de {state} não podem mais participar da vida política por meio do voto, o que a maioria considera uma violação flagrante dos direitos humanos."/>
+    <text id="description" need_translate="false" value="O direito de voto dos analfabetos será abolido. Em {state}, os candidatos serão proibidos de aumentar a simpatia desse grupo durante a campanha eleitoral."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito de voto dos analfabetos"/>
+    <text id="name" need_translate="false" value="Direito de voto dos analfabetos"/>
+    <text id="short_description" need_translate="false" value="Voto proibido"/>
+  </law_43>
+  <law_44>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, os analfabetos de todo o país finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os analfabetos do estado de {state} finalmente poderão mostrar seu potencial político e se candidatar a cargos."/>
+    <text id="description" need_translate="false" value="O direito dos analfabetos de serem eleitos será permitido. Os analfabetos de {state} poderão se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Aprovar o direito dos analfabetos de serem eleitos"/>
+    <text id="name" need_translate="false" value="Direito dos analfabetos de serem eleitos"/>
+    <text id="short_description" need_translate="false" value="Permitido ser eleito"/>
+  </law_44>
+  <law_45>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A partir de agora, o direito dos analfabetos de serem eleitos em todo o país está ameaçado e dependerá da legislação estadual."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, os analfabetos do estado de {state} não poderão mais se candidatar a cargos, o que provavelmente causará grande descontentamento nesse grupo social."/>
+    <text id="description" need_translate="false" value="Se o projeto for aprovado, as pessoas sem instrução não poderão mais se candidatar a cargos."/>
+    <text id="extended_name" need_translate="false" value="Abolir o direito dos analfabetos de serem eleitos"/>
+    <text id="name" need_translate="false" value="Direito dos analfabetos de serem eleitos"/>
+    <text id="short_description" need_translate="false" value="Proibido ser eleito"/>
+  </law_45>
+  <law_46>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que isso levará a um crescimento de {change}% na infraestrutura do estado."/>
+    <text id="description" need_translate="false" value="A infraestrutura do estado crescerá {change}%, o que reduzirá o tempo necessário para as empresas se expandirem."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o investimento em infraestrutura"/>
+    <text id="name" need_translate="false" value="Investimento em infraestrutura"/>
+    <text id="short_description" need_translate="false" value="Aumentar o investimento"/>
+  </law_46>
+  <law_47>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que isso levará a uma queda de {change}% na infraestrutura do estado."/>
+    <text id="description" need_translate="false" value="A infraestrutura do estado cairá {change}%, o que aumentará o tempo necessário para as empresas se expandirem."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o investimento em infraestrutura"/>
+    <text id="name" need_translate="false" value="Investimento em infraestrutura"/>
+    <text id="short_description" need_translate="false" value="Reduzir o investimento"/>
+  </law_47>
+  <law_48>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="{state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que o investimento adicional do governo no desenvolvimento tecnológico reduzirá o custo da publicidade nas empresas em {change}%."/>
+    <text id="description" need_translate="false" value="O investimento do governo no desenvolvimento de tecnologias de publicidade reduzirá o custo da publicidade nas empresas em {change}%."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o investimento em pesquisa publicitária"/>
+    <text id="name" need_translate="false" value="Investimento em pesquisa publicitária"/>
+    <text id="short_description" need_translate="false" value="Aumentar o investimento"/>
+  </law_48>
+  <law_49>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="{state} aprovou a lei &quot;{law}&quot;. Os analistas acreditam que a redução da contribuição do governo para o desenvolvimento tecnológico aumentará o custo da publicidade nas empresas em {change}%. A queda do interesse do governo no desenvolvimento de tecnologias de publicidade aumentará o custo da publicidade nas empresas em {change}%."/>
+    <text id="description" need_translate="false" value="Reduzir o investimento em pesquisa na área de publicidade"/>
+    <text id="extended_name" need_translate="false" value="Investimento em pesquisa na área de publicidade"/>
+    <text id="name" need_translate="false" value="Investimento em pesquisa publicitária"/>
+    <text id="short_description" need_translate="false" value="Reduzir o investimento"/>
+  </law_49>
+  <law_50>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A medida tem como objetivo estimular a produção nacional. Segundo os analistas, o preço do aço deve subir {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de importação elevará em {change}% o preço do aço para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de importação sobre o aço"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o aço"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_50>
+  <law_5>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A jornada máxima de trabalho agora é de {working_hours} horas, o que deve reduzir a produtividade dos trabalhadores em {value}%."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A jornada máxima de trabalho será reduzida para {working_hours} horas, o que reduzirá a produtividade dos trabalhadores em {change_percents}%."/>
+    <text id="extended_name" need_translate="false" value="Reduzir a duração da jornada de trabalho"/>
+    <text id="name" need_translate="false" value="Jornada de trabalho"/>
+    <text id="short_description" need_translate="false" value="Reduzir a jornada"/>
+  </law_5>
+  <law_51>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Isso vai frear um pouco o desenvolvimento da produção nacional. Segundo os analistas, o preço do aço deve cair {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A redução do imposto de importação diminuirá em {change}% o preço do aço para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de importação sobre o aço"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o aço"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_51>
+  <law_52>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Espera-se que isso aumente o volume de mercadorias no mercado interno, o que, segundo os analistas, levará a uma queda de {change}% no preço do aço."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de exportação reduzirá em {change}% o preço do aço para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de exportação sobre o aço"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o aço"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_52>
+  <law_53>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Isso provavelmente reduzirá o volume de mercadorias vendidas pelas empresas dentro do país, o que, segundo os analistas, logo levará a um aumento de {change}% no preço do aço."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O corte do imposto de exportação aumentará em {change}% o preço do aço para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de exportação sobre o aço"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o aço"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_53>
+  <law_54>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A medida tem como objetivo estimular a produção nacional. Segundo os analistas, o preço do petróleo deve subir {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de importação elevará em {change}% o preço do petróleo para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de importação sobre o petróleo"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o petróleo"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_54>
+  <law_55>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Isso vai frear um pouco o desenvolvimento da produção nacional. Segundo os analistas, o preço do petróleo deve cair {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A redução do imposto de importação diminuirá em {change}% o preço do petróleo para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de importação sobre o petróleo"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o petróleo"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_55>
+  <law_56>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Espera-se, com isso, um aumento do volume de mercadorias no mercado interno, o que, segundo os analistas, levará a uma queda de {change}% no preço do petróleo."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de exportação reduzirá em {change}% o preço do petróleo para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de exportação sobre o petróleo"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o petróleo"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_56>
+  <law_57>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Isso provavelmente reduzirá o volume de mercadorias vendidas pelas empresas dentro do país, o que, segundo os analistas, logo levará a um aumento de {change}% no preço do petróleo."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A redução do imposto de exportação aumentará em {change}% o preço do petróleo para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de exportação sobre o petróleo"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o petróleo"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_57>
+  <law_58>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A medida tem como objetivo estimular a produção nacional. Segundo os analistas, o preço do minério deve subir {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de importação elevará em {change}% o preço do minério para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de importação sobre o minério"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o minério"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_58>
+  <law_59>
+    <text id="applied_federal_name" need_translate="false" value="Foi aprovada nos EUA a lei federal &quot;{law}&quot;. Isso vai frear um pouco o desenvolvimento da produção nacional. Segundo os analistas, o preço do minério deve cair {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A redução do imposto de importação diminuirá em {change}% o preço do minério para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de importação sobre o minério"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o minério"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_59>
+  <law_60>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Espera-se que isso aumente o volume de mercadorias no mercado interno, o que, segundo os analistas, levará a uma queda de {change}% no preço do minério."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de exportação reduzirá em {change}% o preço do minério para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de exportação sobre o minério"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o minério"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_60>
+  <law_6>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Segundo estimativas preliminares, isso reduzirá o índice de acidentes em {accident}%, mas a manutenção do posto de trabalho ficará $ {value} mais cara."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="As exigências para os postos de trabalho nas empresas serão endurecidas para prevenir lesões e acidentes de trabalho. O custo de manutenção do posto de trabalho aumentará {maintenance}%, e o índice de acidentes cairá {accident_risk}%."/>
+    <text id="extended_name" need_translate="false" value="Endurecer as normas mínimas de segurança na organização do posto de trabalho"/>
+    <text id="name" need_translate="false" value="Normas mínimas de segurança na organização do posto de trabalho"/>
+    <text id="short_description" need_translate="false" value="Endurecer as exigências"/>
+  </law_6>
+  <law_61>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Isso provavelmente reduzirá o volume de mercadorias vendidas pelas empresas dentro do país, o que, segundo os analistas, logo levará a um aumento de {change}% no preço do minério."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A redução do imposto de exportação aumentará em {change}% o preço do minério para as empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de exportação sobre o minério"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o minério"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_61>
+  <law_62>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. A medida tem como objetivo estimular a produção nacional. Segundo os analistas, o preço do querosene deve subir {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de importação elevará em {change}% o preço do querosene das empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de importação sobre o querosene"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o querosene"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_62>
+  <law_63>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Isso vai frear um pouco o desenvolvimento da produção nacional. Segundo os analistas, o preço do querosene deve cair {change}% em breve."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A redução do imposto de importação diminuirá em {change}% o preço do querosene das empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de importação sobre o querosene"/>
+    <text id="name" need_translate="false" value="Imposto de importação sobre o querosene"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_63>
+  <law_64>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Espera-se que isso aumente o volume de mercadorias no mercado interno, o que, segundo os analistas, levará a uma queda de {change}% no preço do querosene."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="O aumento do imposto de exportação reduzirá em {change}% o preço do querosene das empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o imposto de exportação sobre o querosene"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o querosene"/>
+    <text id="short_description" need_translate="false" value="Aumentar o imposto"/>
+  </law_64>
+  <law_65>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Isso provavelmente reduzirá o volume de mercadorias vendidas pelas empresas dentro do país, o que, segundo os analistas, logo levará a um aumento de {change}% no preço do querosene."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="A redução do imposto de exportação aumentará em {change}% o preço do querosene das empresas locais."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o imposto de exportação sobre o querosene"/>
+    <text id="name" need_translate="false" value="Imposto de exportação sobre o querosene"/>
+    <text id="short_description" need_translate="false" value="Reduzir o imposto"/>
+  </law_65>
+  <law_66>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Agora as empresas não podem mais empregar trabalhadores com menos de {value} anos, o que exigirá a contratação de profissionais mais qualificados e, consequentemente, reduzirá o desemprego em todos os estados."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="Reduzirá o percentual da população em idade de trabalhar e, consequentemente, o desemprego em todos os estados."/>
+    <text id="extended_name" need_translate="false" value="Aumentar a idade mínima para trabalhar"/>
+    <text id="name" need_translate="false" value="Idade mínima para trabalhar"/>
+    <text id="short_description" need_translate="false" value="Aumentar o limite"/>
+  </law_66>
+  <law_67>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. As empresas poderão voltar a empregar trabalhadores a partir de {value} anos, o que reduzirá a necessidade de contratar profissionais mais qualificados e, consequentemente, aumentará o desemprego em todos os estados."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="Aumentará o percentual da população em idade de trabalhar e, consequentemente, o desemprego em todos os estados."/>
+    <text id="extended_name" need_translate="false" value="Reduzir a idade mínima para trabalhar"/>
+    <text id="name" need_translate="false" value="Idade mínima para trabalhar"/>
+    <text id="short_description" need_translate="false" value="Reduzir o limite"/>
+  </law_67>
+  <law_68>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="Foi aprovada no estado de {state} a lei &quot;{law}&quot;. A multa para empresas com acidentes de trabalho aumentou {change}% e agora é de {new_value}% da receita. Espera-se que isso sirva de incentivo adicional para melhorar as condições de trabalho dos trabalhadores."/>
+    <text id="description" need_translate="false" value="Aumentará em {change}% a multa sobre a receita paga pelas empresas em caso de acidentes de trabalho."/>
+    <text id="extended_name" need_translate="false" value="Aumentar a multa por violação das normas técnicas"/>
+    <text id="name" need_translate="false" value="Valor da multa por violação das normas técnicas"/>
+    <text id="short_description" need_translate="false" value="Aumentar o valor da multa"/>
+  </law_68>
+  <law_69>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A multa para empresas que causarem acidentes de trabalho foi reduzida em {change}% e agora é de {new_value}% da receita. Obviamente, a menor responsabilidade das empresas que arriscam a vida de seus funcionários para enriquecer o mais rápido possível aumentará a tensão social e pode levar a mais greves."/>
+    <text id="description" need_translate="false" value="Reduzirá em {change}% a multa sobre a receita paga pelas empresas em caso de acidentes de trabalho."/>
+    <text id="extended_name" need_translate="false" value="Reduzir a multa por violação das normas técnicas"/>
+    <text id="name" need_translate="false" value="Valor da multa por violação das normas técnicas"/>
+    <text id="short_description" need_translate="false" value="Reduzir o valor da multa"/>
+  </law_69>
+  <law_70>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, a orientação sexual não poderá servir de pretexto para perseguição, e figuras influentes não precisarão mais temer ser comprometidas por relações homoafetivas."/>
+    <text id="description" need_translate="false" value="Será cancelado o bônus de {change}% na chance de os detetives encontrarem material comprometedor sobre personagens com o traço &quot;homossexual&quot; e &quot;lésbica&quot;."/>
+    <text id="extended_name" need_translate="false" value="Permitir relações homoafetivas"/>
+    <text id="name" need_translate="false" value="Relações homoafetivas"/>
+    <text id="short_description" need_translate="false" value="Permitidas"/>
+  </law_70>
+  <law_7>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Segundo estimativas preliminares, isso aumentará o índice de acidentes em {accident}%, mas a manutenção do posto de trabalho ficará $ {value} mais barata."/>
+    <text id="applied_local_name" need_translate="false" value=""/>
+    <text id="description" need_translate="false" value="As exigências para os postos de trabalho nas empresas serão flexibilizadas. O custo de manutenção do posto de trabalho cairá {maintenance}%, e o índice de acidentes aumentará {accident_risk}%."/>
+    <text id="extended_name" need_translate="false" value="Flexibilizar as normas mínimas de segurança na organização do posto de trabalho"/>
+    <text id="name" need_translate="false" value="Normas mínimas de segurança na organização do posto de trabalho"/>
+    <text id="short_description" need_translate="false" value="Flexibilizar as exigências"/>
+  </law_7>
+  <law_71>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. A partir de agora, a orientação homossexual é pretexto para perseguição, e por isso figuras influentes do estado de {state} que mantêm relações homoafetivas devem temer ser comprometidas."/>
+    <text id="description" need_translate="false" value="Passa a valer o bônus de {change}% na chance de o detetive encontrar material comprometedor sobre personagens com o traço &quot;homossexual&quot; e &quot;lésbica&quot;."/>
+    <text id="extended_name" need_translate="false" value="Proibir relações homoafetivas"/>
+    <text id="name" need_translate="false" value="Relações homoafetivas"/>
+    <text id="short_description" need_translate="false" value="Proibidas"/>
+  </law_71>
+  <law_72>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora o governador é eleito pelo povo."/>
+    <text id="description" need_translate="false" value="Instituir a eleição do governador. Isso tornará possível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do governador"/>
+    <text id="name" need_translate="false" value="Eleição do governador"/>
+    <text id="short_description" need_translate="false" value="Eleito pelo povo"/>
+  </law_72>
+  <law_73>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="Foi aprovada no estado de {state} a lei {law}. Agora o governador não é mais eleito pelo povo, e sim nomeado"/>
+    <text id="description" need_translate="false" value="Instituir a nomeação do governador. Isso tornará impossível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do governador"/>
+    <text id="name" need_translate="false" value="Eleição do governador"/>
+    <text id="short_description" need_translate="false" value="Nomeado pelo Governador"/>
+  </law_73>
+  <law_74>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo governador do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do governador em {term}. Isso não afetará o mandato do governador atual."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o mandato do governador"/>
+    <text id="name" need_translate="false" value="Duração do mandato do governador"/>
+    <text id="short_description" need_translate="false" value="Aumentar o mandato"/>
+  </law_74>
+  <law_75>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo governador do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do governador em {term}. Isso não afetará o mandato do governador atual."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o mandato do governador"/>
+    <text id="name" need_translate="false" value="Duração do mandato do governador"/>
+    <text id="short_description" need_translate="false" value="Reduzir o mandato"/>
+  </law_75>
+  <law_76>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de governador por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do governador em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de governador por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o número máximo de mandatos do governador"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do governador"/>
+    <text id="short_description" need_translate="false" value="Aumentar"/>
+  </law_76>
+  <law_77>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de governador por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do governador em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de governador por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o número máximo de mandatos do governador"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do governador"/>
+    <text id="short_description" need_translate="false" value="Reduzir"/>
+  </law_77>
+  <law_78>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora o promotor é eleito pelo povo."/>
+    <text id="description" need_translate="false" value="Instituir a eleição do promotor. Isso tornará possível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do promotor"/>
+    <text id="name" need_translate="false" value="Eleição do promotor"/>
+    <text id="short_description" need_translate="false" value="Eleito pelo povo"/>
+  </law_78>
+  <law_79>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora o promotor é nomeado pelo governador."/>
+    <text id="description" need_translate="false" value="Instituir a nomeação do promotor. Isso tornará impossível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do promotor"/>
+    <text id="name" need_translate="false" value="Eleição do promotor"/>
+    <text id="short_description" need_translate="false" value="Nomeado pelo Governador"/>
+  </law_79>
+  <law_80>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo promotor do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do promotor em {term}. Isso não afetará o mandato do promotor atual."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o mandato do promotor"/>
+    <text id="name" need_translate="false" value="Duração do mandato do promotor"/>
+    <text id="short_description" need_translate="false" value="Aumentar o mandato"/>
+  </law_80>
+  <law_8>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Os trabalhadores de todo o país agora vão se sentir mais protegidos, e espera-se que o risco de greves nos estados antes sem regulamentação aumente {value}%."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os trabalhadores agora vão se sentir mais protegidos e, por isso, espera-se que o risco de greves aumente {value}%."/>
+    <text id="description" need_translate="false" value="As atividades sindicais serão permitidas e regulamentadas, o que aumentará o risco de greves em {strike_risk}%."/>
+    <text id="extended_name" need_translate="false" value="Regulamentar as atividades sindicais"/>
+    <text id="name" need_translate="false" value="Atividades sindicais"/>
+    <text id="short_description" need_translate="false" value="Atividade regulamentada"/>
+  </law_8>
+  <law_81>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo promotor do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do promotor em {term}. Isso não afetará o mandato do promotor atual."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o mandato do promotor"/>
+    <text id="name" need_translate="false" value="Duração do mandato do promotor"/>
+    <text id="short_description" need_translate="false" value="Reduzir o mandato"/>
+  </law_81>
+  <law_82>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de promotor por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do promotor em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de promotor por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o número máximo de mandatos do promotor"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do promotor"/>
+    <text id="short_description" need_translate="false" value="Aumentar"/>
+  </law_82>
+  <law_83>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de promotor por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do promotor em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de promotor por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o número máximo de mandatos do promotor"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do promotor"/>
+    <text id="short_description" need_translate="false" value="Reduzir"/>
+  </law_83>
+  <law_84>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora o chefe de polícia é eleito pelo povo."/>
+    <text id="description" need_translate="false" value="Instituir a eleição do chefe de polícia. Isso tornará possível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do Chefe de Polícia"/>
+    <text id="name" need_translate="false" value="Eleição do Chefe de Polícia"/>
+    <text id="short_description" need_translate="false" value="Eleito pelo povo"/>
+  </law_84>
+  <law_85>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora o chefe de polícia é nomeado pelo governador."/>
+    <text id="description" need_translate="false" value="Instituir a nomeação do chefe de polícia. Isso tornará impossível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do Chefe de Polícia"/>
+    <text id="name" need_translate="false" value="Eleição do Chefe de Polícia"/>
+    <text id="short_description" need_translate="false" value="Nomeado pelo Governador"/>
+  </law_85>
+  <law_86>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo chefe de polícia do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do chefe de polícia em {term}. Isso não afetará o mandato do chefe de polícia atual."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o mandato do chefe de polícia"/>
+    <text id="name" need_translate="false" value="Duração do mandato do chefe de polícia"/>
+    <text id="short_description" need_translate="false" value="Aumentar o mandato"/>
+  </law_86>
+  <law_87>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo chefe de polícia do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do chefe de polícia em {term}. Isso não afetará o mandato do chefe de polícia atual."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o mandato do chefe de polícia"/>
+    <text id="name" need_translate="false" value="Duração do mandato do chefe de polícia"/>
+    <text id="short_description" need_translate="false" value="Reduzir o mandato"/>
+  </law_87>
+  <law_88>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de chefe de polícia por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do chefe de polícia em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de chefe de polícia por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o número máximo de mandatos do chefe de polícia"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do chefe de polícia"/>
+    <text id="short_description" need_translate="false" value="Aumentar"/>
+  </law_88>
+  <law_89>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de chefe de polícia por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do chefe de polícia em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de chefe de polícia por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o número máximo de mandatos do chefe de polícia"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do chefe de polícia"/>
+    <text id="short_description" need_translate="false" value="Reduzir"/>
+  </law_89>
+  <law_90>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora o tesoureiro é eleito pelo povo."/>
+    <text id="description" need_translate="false" value="Instituir a eleição do tesoureiro. Isso tornará possível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do tesoureiro"/>
+    <text id="name" need_translate="false" value="Eleição do tesoureiro"/>
+    <text id="short_description" need_translate="false" value="Eleito pelo povo"/>
+  </law_90>
+  <law_9>
+    <text id="applied_federal_name" need_translate="false" value="Os Estados Unidos aprovaram a lei federal &quot;{law}&quot;. Agora, se alguns estados também aprovarem um projeto semelhante, os trabalhadores não poderão mais ter certeza de que seus direitos estão protegidos."/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Os funcionários não têm mais certeza de que seus direitos serão protegidos e, por isso, espera-se que o risco de greves caia {value}%."/>
+    <text id="description" need_translate="false" value="As atividades sindicais serão proibidas, o que reduzirá o risco de greves em {strike_risk}%."/>
+    <text id="extended_name" need_translate="false" value="Retirar a regulamentação das atividades sindicais"/>
+    <text id="name" need_translate="false" value="Atividades sindicais"/>
+    <text id="short_description" need_translate="false" value="Atividade não regulamentada"/>
+  </law_9>
+  <law_91>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora o tesoureiro é nomeado pelo governador."/>
+    <text id="description" need_translate="false" value="Instituir a nomeação do tesoureiro. Isso tornará impossível realizar eleições e influenciá-las."/>
+    <text id="extended_name" need_translate="false" value="Eleição do tesoureiro"/>
+    <text id="name" need_translate="false" value="Eleição do tesoureiro"/>
+    <text id="short_description" need_translate="false" value="Nomeado pelo Governador"/>
+  </law_91>
+  <law_92>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo tesoureiro do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do tesoureiro em {term}. Isso não afetará o mandato do tesoureiro atual."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o mandato do tesoureiro"/>
+    <text id="name" need_translate="false" value="Duração do mandato do tesoureiro"/>
+    <text id="short_description" need_translate="false" value="Aumentar o mandato"/>
+  </law_92>
+  <law_93>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. O próximo tesoureiro do estado ficará {term} no cargo."/>
+    <text id="description" need_translate="false" value="Definir o mandato do tesoureiro em {term}. Isso não afetará o mandato do tesoureiro atual."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o mandato do tesoureiro"/>
+    <text id="name" need_translate="false" value="Duração do mandato do tesoureiro"/>
+    <text id="short_description" need_translate="false" value="Reduzir o mandato"/>
+  </law_93>
+  <law_94>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de tesoureiro por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do tesoureiro em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de tesoureiro por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Aumentar o número máximo de mandatos do tesoureiro"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do tesoureiro"/>
+    <text id="short_description" need_translate="false" value="Aumentar"/>
+  </law_94>
+  <law_95>
+    <text id="applied_federal_name" need_translate="false" value=""/>
+    <text id="applied_local_name" need_translate="false" value="O estado de {state} aprovou a lei &quot;{law}&quot;. Agora uma mesma pessoa não poderá ocupar o cargo de tesoureiro por mais de {term}."/>
+    <text id="description" need_translate="false" value="Definir o número máximo de mandatos do tesoureiro em {term}. Após a aprovação da lei, uma mesma pessoa não poderá ocupar o cargo de tesoureiro por mais de {term}."/>
+    <text id="extended_name" need_translate="false" value="Reduzir o número máximo de mandatos do tesoureiro"/>
+    <text id="name" need_translate="false" value="Número máximo de mandatos do tesoureiro"/>
+    <text id="short_description" need_translate="false" value="Reduzir"/>
+  </law_95>
+  <law_group_0>
+    <text id="accept_level" need_translate="false" value="Leis deste tipo são aprovadas em nível federal"/>
+    <text id="name" need_translate="false" value="Constitucionais"/>
+  </law_group_0>
+  <law_group_1>
+    <text id="accept_level" need_translate="false" value="Leis deste tipo são aprovadas em nível regional"/>
+    <text id="name" need_translate="false" value="Administrativas"/>
+  </law_group_1>
+  <law_group_2>
+    <text id="accept_level" need_translate="false" value="Leis deste tipo são aprovadas em nível regional"/>
+    <text id="name" need_translate="false" value="Financeiras"/>
+  </law_group_2>
+  <law_group_3>
+    <text id="accept_level" need_translate="false" value="Leis deste tipo são aprovadas em nível regional"/>
+    <text id="name" need_translate="false" value="Tributárias"/>
+  </law_group_3>
+  <law_group_4>
+    <text id="accept_level" need_translate="false" value="Leis deste tipo são aprovadas em nível regional"/>
+    <text id="name" need_translate="false" value="Trabalhistas"/>
+  </law_group_4>
+  <law_group_5>
+    <text id="accept_level" need_translate="false" value="Leis deste tipo são aprovadas em nível regional"/>
+    <text id="name" need_translate="false" value="Penais"/>
+  </law_group_5>
+  <law_group_6>
+    <text id="accept_level" need_translate="false" value="Leis deste tipo são aprovadas em nível federal"/>
+    <text id="name" need_translate="false" value="Alfandegárias"/>
+  </law_group_6>
+</laws>

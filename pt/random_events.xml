@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<random_events>
+  <bribe_to_police_chief>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value=""/>
+      <text id="negative_artistic_text" need_translate="false" value=""/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value=""/>
+      <text id="positive_text" need_translate="false" value=""/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="({money})"/>
+      <text id="name" need_translate="false" value="Oferecer suborno"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você entrega ao chefe de polícia um envelope com dinheiro. Ele derruba o envelope das suas mãos e prende você. Enquanto o julgamento estiver em andamento, você ficará fora dos negócios."/>
+      <text id="negative_text" need_translate="false" value="Você ficará fora dos negócios por {trauma} trimestre(s)"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você entrega ao Chefe de Polícia um envelope com uma quantia impressionante. Ele o guarda no bolso sem fazer perguntas e vai embora."/>
+      <text id="positive_text" need_translate="false" value="Dinheiro: {money}&lt;br&gt;{person} {loyalty}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value="({influence})"/>
+      <text id="hint_text" need_translate="false" value="Influência insuficiente"/>
+      <text id="name" need_translate="false" value="Refutar as acusações"/>
+      <text id="negative_artistic_text" need_translate="false" value="Suas tentativas de provar sua inocência só irritaram o Chefe de Polícia. Ele decidiu se vingar colocando você atrás das grades enquanto durar o julgamento."/>
+      <text id="negative_text" need_translate="false" value="Influência: {influence}&lt;br&gt;Você ficará fora dos negócios por {trauma} trimestres"/>
+      <text id="positive_artistic_text" need_translate="false" value="Usando suas habilidades, você apresenta vários argumentos que provam sua inocência. O Chefe de Polícia só pode ir embora de mãos vazias."/>
+      <text id="positive_text" need_translate="false" value="Influência: {influence}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Cobrador&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Cobrador»"/>
+      <text id="name" need_translate="false" value="Intimidar as testemunhas"/>
+      <text id="negative_artistic_text" need_translate="false" value="Infelizmente, suas tentativas de lidar com as testemunhas fracassaram. Você terá de ficar atrás das grades até o fim do julgamento."/>
+      <text id="negative_text" need_translate="false" value="Agente &quot;Cobrador&quot; usado&lt;br&gt;Você ficará fora dos negócios por {trauma} trimestre(s)"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você recorreu a um cobrador conhecido para convencer as testemunhas a retirar o depoimento. Sua aposta deu certo, e logo o chefe de polícia recuou."/>
+      <text id="positive_text" need_translate="false" value="O agente &quot;Cobrador&quot; será usado"/>
+    </answer_3>
+    <answer_4>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Isto é uma provocação"/>
+      <text id="negative_artistic_text" need_translate="false" value="Ao deixar tudo ao acaso, você mostrou seu pior lado. Terá de ficar atrás das grades até o fim do julgamento."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}&lt;br&gt;Você ficará afastado por {trauma} trimestres"/>
+      <text id="positive_artistic_text" need_translate="false" value="As verificações da polícia não encontraram nada. Parece que as suspeitas do chefe de polícia eram mesmo só uma provocação."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências"/>
+    </answer_4>
+    <text id="description" need_translate="false" value="O chefe de polícia local, {person}, vem até você e joga uma pilha de papéis na mesa. Ele afirma que há um grupo de testemunhas cujos depoimentos podem servir de base para abrir um processo contra você. Tudo indica que ele quer arrancar um suborno. Ao que parece, se você não resolver a questão, poderá ir para a cadeia enquanto o julgamento estiver em andamento. O que você vai fazer?"/>
+    <text id="name" need_translate="false" value="Suborno ao chefe de polícia"/>
+  </bribe_to_police_chief>
+  <buy_more_expensive_house>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value="{cost}"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Mudar para uma casa de"/>
+      <text id="negative_artistic_text" need_translate="false" value="O sarau na casa nova não teve efeito sobre as fofocas que se espalhavam."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Depois de um sarau em uma casa de prestígio, as fofocas da alta sociedade desapareceram."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="{cost}"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Mudar para uma casa de"/>
+      <text id="negative_artistic_text" need_translate="false" value="O sarau na casa nova não teve efeito sobre as fofocas que se espalhavam."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Depois de um sarau em uma casa de prestígio, as fofocas da alta sociedade desapareceram."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário um item de luxo &quot;Casa&quot; mais caro que &lt;br&gt;{cost}"/>
+      <text id="name" need_translate="false" value="Mudar para uma mansão histórica"/>
+      <text id="negative_artistic_text" need_translate="false" value="O sarau na casa nova não teve efeito sobre as fofocas que se espalhavam."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Depois de um sarau em uma casa de prestígio, as fofocas da alta sociedade desapareceram."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Recusar"/>
+      <text id="negative_artistic_text" need_translate="false" value="A propagação das fofocas prejudicou sua imagem."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="As fofocas da alta sociedade pararam sozinhas, mas deixaram marcas na sua imagem."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências."/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Na alta sociedade, comenta-se que você tem uma renda considerável, mas continua morando em uma residência relativamente modesta. Você deveria se mudar para uma residência de mais prestígio e organizar um sarau para acabar com os boatos sobre sua mesquinharia. Gwen preparou algumas opções:&lt;br&gt;1. Uma casa de {cost_0}. Manutenção: {maintenance_0}&lt;br&gt;2. Uma casa de {cost_1}. Manutenção: {maintenance_1}&lt;br&gt;3. Uma mansão histórica. Manutenção: {maintenance_2}&lt;br&gt;"/>
+    <text id="name" need_translate="false" value="A morada do plutocrata"/>
+  </buy_more_expensive_house>
+  <change_active_techology>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Aprovar a iniciativa"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você aceitou mudar a tecnologia em desenvolvimento. O CEO achou isso natural."/>
+      <text id="negative_text" need_translate="false" value="A {company} muda a tecnologia em desenvolvimento para {techname2} por 1 ano."/>
+      <text id="positive_artistic_text" need_translate="false" value="Você aceitou mudar a tecnologia em desenvolvimento. A relação com o CEO melhorou."/>
+      <text id="positive_text" need_translate="false" value="{person} {loyalty}&lt;br&gt;A {company} muda a tecnologia em desenvolvimento para {techname2} por 1 ano."/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value="({influence})"/>
+      <text id="hint_text" need_translate="false" value="Influência insuficiente"/>
+      <text id="name" need_translate="false" value="Contestar a proposta"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você cedeu à pressão dos argumentos do CEO. O vetor de desenvolvimento da empresa será alterado por 1 ano."/>
+      <text id="negative_text" need_translate="false" value="Influência: {influence}&lt;br&gt;A {company} muda a tecnologia em desenvolvimento para {techname2} por 1 ano."/>
+      <text id="positive_artistic_text" need_translate="false" value="Seus argumentos foram mais convincentes. A direção de desenvolvimento da empresa continuará a mesma."/>
+      <text id="positive_text" need_translate="false" value="Influência: {influence}&lt;br&gt;Não há consequências."/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Financista»"/>
+      <text id="name" need_translate="false" value="Contratar um consultor"/>
+      <text id="negative_artistic_text" need_translate="false" value="O financista aprovou o novo plano e, sob pressão geral, você teve de aceitar a proposta do CEO."/>
+      <text id="negative_text" need_translate="false" value="O agente &quot;Financista&quot; será usado &lt;br&gt;A {company} muda a tecnologia em desenvolvimento para {techname2} por 1 ano."/>
+      <text id="positive_artistic_text" need_translate="false" value="Comparando os planos de desenvolvimento atual e proposto, o Financista convenceu seu CEO a não mudar de rumo."/>
+      <text id="positive_text" need_translate="false" value="O agente «Financista» será usado&lt;br&gt;Sem outras consequências."/>
+    </answer_3>
+    <answer_4>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Prometer pensar no assunto"/>
+      <text id="negative_artistic_text" need_translate="false" value="O gestor sentiu que você desdenhou da experiência e do conhecimento dele."/>
+      <text id="negative_text" need_translate="false" value="[portrait]{person} -{loyalty} ❤"/>
+      <text id="positive_artistic_text" need_translate="false" value="O CEO recolheu os documentos que trouxe e saiu sem demonstrar emoção"/>
+      <text id="positive_text" need_translate="false" value="Sem consequências."/>
+    </answer_4>
+    <text id="description" need_translate="false" value="{person}, diretor da {company}, traz a você uma nova proposta de desenvolvimento da empresa para o próximo ano e insiste em mudar o vetor de desenvolvimento de {techname1} para {techname2}."/>
+    <text id="name" need_translate="false" value="A proposta de desenvolvimento"/>
+  </change_active_techology>
+  <charity_evening>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value="({money})"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Doar uma grande quantia"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você está longe de liderar a lista de benfeitores, mas as pessoas valorizaram sua contribuição."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}&lt;br&gt;{person} &lt;br&gt;{loyalty}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você está entre os primeiros da lista de benfeitores. As pessoas valorizaram sua generosidade."/>
+      <text id="positive_text" need_translate="false" value="Reputação: {reputation}&lt;br&gt;{person} &lt;br&gt;{loyalty}"/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="({money})"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Faça uma doação"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você está no fim da lista de benfeitores, e ninguém além de {person} valorizou sua contribuição."/>
+      <text id="negative_text" need_translate="false" value="{person} &lt;br&gt;{loyalty}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você está longe de liderar a lista de benfeitores, mas as pessoas valorizaram sua contribuição."/>
+      <text id="positive_text" need_translate="false" value="Reputação: {reputation}&lt;br&gt;{person} &lt;br&gt;{loyalty}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value="({influence})"/>
+      <text id="hint_text" need_translate="false" value="Influência insuficiente"/>
+      <text id="name" need_translate="false" value="Fazer um discurso inspirador"/>
+      <text id="negative_artistic_text" need_translate="false" value="Seu nome não está na lista de benfeitores, e seu discurso não teve muito efeito."/>
+      <text id="negative_text" need_translate="false" value="Não há consequências."/>
+      <text id="positive_artistic_text" need_translate="false" value="Seu nome não está na lista de benfeitores, mas seu belo discurso foi apreciado por {person}."/>
+      <text id="positive_text" need_translate="false" value="{person} &lt;br&gt;{loyalty}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Não doar nada"/>
+      <text id="negative_artistic_text" need_translate="false" value="Sua recusa em doar ofendeu {person}."/>
+      <text id="negative_text" need_translate="false" value="{person} &lt;br&gt;{loyalty}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Sua recusa em doar foi recebida com tranquilidade por {person}."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Você compareceu a uma noite beneficente em favor dos pobres, organizada na alta sociedade por um benfeitor local, {person}. Chegou o momento em que {person} se aproximou de você para pedir uma doação."/>
+    <text id="name" need_translate="false" value="Noite beneficente"/>
+  </charity_evening>
+  <company_accident_event>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Subornar os fiscais"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você teve de pagar aos fiscais muito mais do que esperava. Porém, nenhuma irregularidade foi encontrada, e a investigação do acidente foi encerrada."/>
+      <text id="negative_text" need_translate="false" value="Reservas da empresa: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você conseguiu comprar os fiscais. Depois de receber o suborno, eles não encontraram nenhuma irregularidade. A investigação do acidente foi encerrada."/>
+      <text id="positive_text" need_translate="false" value="Reservas da empresa: {money}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Falar com o promotor"/>
+      <text id="negative_artistic_text" need_translate="false" value="A tentativa de {person} de cancelar a investigação causou um escândalo. Ao fim da investigação, a {company} foi multada, e {person} só arruinou a própria reputação."/>
+      <text id="negative_text" need_translate="false" value="Reputação de {person}:&lt;br&gt;{reputation}&lt;br&gt;Multa da empresa: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Graças à intervenção de {person}, a investigação do acidente foi cancelada."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Simular sabotagem"/>
+      <text id="negative_artistic_text" need_translate="false" value="Os fiscais encontraram várias violações de segurança, mas nenhum vestígio de sabotagem. Ao fim da investigação, a {company} foi multada."/>
+      <text id="negative_text" need_translate="false" value="O agente Sabotador será usado&lt;br&gt;Multa da empresa: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Os fiscais acreditaram nas provas plantadas no local do acidente. A investigação não foi encerrada, mas sua empresa deixou de ser ameaçada por ela."/>
+      <text id="positive_text" need_translate="false" value="O agente Sabotador será usado"/>
+    </answer_3>
+    <answer_4>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Acompanhar a fiscalização"/>
+      <text id="negative_artistic_text" need_translate="false" value="Suas tentativas de distrair os fiscais fracassaram. Foram identificadas várias violações de segurança. A {company} foi multada, e sua reputação foi prejudicada."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}&lt;br&gt;Multa da empresa: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você conversou tanto com os fiscais que eles não prestaram atenção em nenhuma das irregularidades da empresa. Após a fiscalização, a investigação do acidente foi encerrada."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências"/>
+    </answer_4>
+    <text id="description" need_translate="false" value="Ocorreu um acidente na empresa {company}, do estado de {state}, que você administra, com vítimas entre os trabalhadores. Muito provavelmente foi causado por descuido com as normas de segurança. {victims} trabalhadores foram atingidos, e as instalações onde trabalhavam foram destruídas. Uma fiscalização para apurar as causas do incidente deve acontecer em breve. É preciso fazer algo para evitar multas adicionais."/>
+    <text id="name" need_translate="false" value="Acidente"/>
+  </company_accident_event>
+  <company_strike_event>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Discutir as reivindicações com os líderes"/>
+      <text id="negative_artistic_text" need_translate="false" value="Os líderes foram irredutíveis, e você teve de aceitar todas as exigências dos trabalhadores. Os trabalhadores, satisfeitos, voltaram aos seus postos."/>
+      <text id="negative_text" need_translate="false" value="O salário dos trabalhadores da {company_name} foi aumentado em {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Junto com os líderes dos trabalhadores, você chegou a um meio-termo menos custoso. Os trabalhadores, satisfeitos, voltaram aos seus postos."/>
+      <text id="positive_text" need_translate="false" value="O salário dos trabalhadores da {company_name} foi aumentado em {money}&lt;br&gt;Reputação: {reputation}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Falar com o chefe de polícia"/>
+      <text id="negative_artistic_text" need_translate="false" value="A polícia que chegou não conseguiu dispersar a multidão pacificamente, e começou uma briga. A greve começou. A opinião pública condenou {person_name} por abuso de autoridade."/>
+      <text id="negative_text" need_translate="false" value="Reputação de {person_name}: {reputation}&lt;br&gt;Greve na {company_name}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Com a ajuda da polícia, você conseguiu dispersar a multidão de manifestantes. Ao ver os policiais com cassetetes, os trabalhadores decidiram abandonar a ideia da greve por um tempo."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Declarar um dia de folga"/>
+      <text id="negative_artistic_text" need_translate="false" value="A maioria dos trabalhadores não foi ao concerto, mas apareceu diante do prédio da administração no dia seguinte, continuando a gritar palavras de ordem. A greve começou."/>
+      <text id="negative_text" need_translate="false" value="O agente Pianista será usado&lt;br&gt;Greve na {company_name}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você anunciou um dia de folga e um concerto festivo. Felizes com o tempo livre e com um pianista renomado, os trabalhadores esqueceram temporariamente a greve."/>
+      <text id="positive_text" need_translate="false" value="O agente Pianista será usado"/>
+    </answer_3>
+    <answer_4>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Acalmar a multidão"/>
+      <text id="negative_artistic_text" need_translate="false" value="Assim que você apareceu diante do prédio da administração, legumes podres voaram na sua direção. A multidão furiosa não quis ouvir promessas vazias. A greve começou."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}&lt;br&gt;Greve na {company_name}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você ouviu todos e prometeu resolver logo todos os problemas existentes. Ainda resmungando, os trabalhadores voltaram ao trabalho."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências"/>
+    </answer_4>
+    <text id="description" need_translate="false" value="Os funcionários da empresa {company}, em {state}, se reuniram diante do prédio da administração e exigem um aumento salarial de {increase_per_worker}, o que elevará a folha de pagamento em {total_increase}. Os trabalhadores estão decididos e, se as exigências forem ignoradas, é provável que comece uma greve."/>
+    <text id="name" need_translate="false" value="Greve dos trabalhadores"/>
+  </company_strike_event>
+  <donation_for_church>
+    <answer_0>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="negative_artistic_text" need_translate="false" value=""/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value=""/>
+      <text id="positive_text" need_translate="false" value=""/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="({money})"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Superar a quantia de {person}"/>
+      <text id="negative_artistic_text" need_translate="false" value="Ao ver a quantia que você escreveu no cheque, {person} quase não conseguiu segurar o riso. Obviamente, ele esperava uma oferta mais generosa da sua parte."/>
+      <text id="negative_text" need_translate="false" value="Dinheiro: {money} &lt;br&gt;{person}: &lt;br&gt;{loyalty}&lt;br&gt;Fama: {popularity}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você preenche o cheque querendo surpreender seu amigo com sua generosidade. Foi difícil para ele esconder a inveja ao ver a quantia que você escreveu no cheque."/>
+      <text id="positive_text" need_translate="false" value="Dinheiro: {money}&lt;br&gt;Fama: {popularity}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value="({influence})"/>
+      <text id="hint_text" need_translate="false" value="Influência insuficiente"/>
+      <text id="name" need_translate="false" value="Recorrer à oração"/>
+      <text id="negative_artistic_text" need_translate="false" value="Ao se dirigir à multidão de fiéis, você não encontrou eco entre eles. Discretamente, você foi condenado por tentar se esquivar da doação para o templo."/>
+      <text id="negative_text" need_translate="false" value="Influência: {influence} &lt;br&gt;Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Levantando-se do banco, com um carisma indescritível, você convocou todos a esquecer os bens materiais e recorrer à oração. A maioria dos fiéis seguiu seu conselho na hora."/>
+      <text id="positive_text" need_translate="false" value="Influência: {influence}&lt;br&gt;Fama: {popularity}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Bispo&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Cardeal»"/>
+      <text id="name" need_translate="false" value="Convidar o bispo"/>
+      <text id="negative_artistic_text" need_translate="false" value="Sua proposta de convidar o Bispo foi recusada. Agora a igreja precisa mais de doações do que de pessoas famosas."/>
+      <text id="negative_text" need_translate="false" value="O agente &quot;Bispo&quot; será usado &lt;br&gt;Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você procurou o padre e sugeriu que ele convidasse o próprio Bispo para o sermão. Ele aceitou sem hesitar."/>
+      <text id="positive_text" need_translate="false" value="O agente &quot;Bispo&quot; será usado"/>
+    </answer_3>
+    <answer_4>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Não fazer nada"/>
+      <text id="negative_artistic_text" need_translate="false" value="Sua recusa deixou seu amigo profundamente chateado. Nem é preciso dizer que, depois disso, começaram a surgir boatos sobre você."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation} &lt;br&gt; {person}: {loyalty}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Sua recusa em doar para a igreja foi recebida com tranquilidade. Afinal, não há lugar para maldade e inveja na casa de Deus."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências"/>
+    </answer_4>
+    <text id="description" need_translate="false" value="Seu conhecido, o acionista {person}, sugeriu que você fosse com ele à missa de domingo. Depois da celebração conduzida pelo padre, começaram a passar entre as fileiras recolhendo doações. {person} colocou um cheque alto na bandeja. Agora é a sua vez. O que você vai fazer?"/>
+    <text id="name" need_translate="false" value="Doação para a igreja"/>
+  </donation_for_church>
+  <hire_more_security>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value="({money} / trim.)"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Contratar segurança adicional"/>
+      <text id="negative_artistic_text" need_translate="false" value="Os seguranças contratados reforçaram seu sistema de segurança."/>
+      <text id="negative_text" need_translate="false" value="Novo risco de assalto: {robbery_risk}&lt;br&gt;Manutenção: {money} por trimestre&lt;br&gt;Fama: {popularity}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Entre os seguranças contratados havia um ex-soldado, que ajudou ainda a melhorar a organização do seu sistema de segurança."/>
+      <text id="positive_text" need_translate="false" value="Novo risco de assalto: {robbery_risk}&lt;br&gt;Manutenção: {money} por trimestre&lt;br&gt;Fama: {popularity}"/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="({money} / trim.)"/>
+      <text id="hint_text" need_translate="false" value="É necessário um chefe de polícia leal"/>
+      <text id="name" need_translate="false" value="Envolver a polícia"/>
+      <text id="negative_artistic_text" need_translate="false" value="Os policiais reforçaram seu sistema de segurança."/>
+      <text id="negative_text" need_translate="false" value="Novo risco de assalto: {robbery_risk}&lt;br&gt;Manutenção: {money} por trimestre&lt;br&gt;Fama: {popularity}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Os policiais reforçaram bastante seu sistema de segurança."/>
+      <text id="positive_text" need_translate="false" value="Novo risco de assalto: {robbery_risk}&lt;br&gt;Manutenção: {money} por trimestre&lt;br&gt;Fama: {popularity}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Capanga&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessário um &quot;Capanga&quot;"/>
+      <text id="name" need_translate="false" value="Contratar uma gangue para a segurança"/>
+      <text id="negative_artistic_text" need_translate="false" value="Os bandidos contratados reforçaram seu sistema de segurança."/>
+      <text id="negative_text" need_translate="false" value="Risco futuro de assalto: {robbery_risk}&lt;br&gt;O agente &quot;Capanga&quot; será usado&lt;br&gt;Popularidade: {popularity}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Ninguém protege melhor contra bandidos do que os próprios bandidos."/>
+      <text id="positive_text" need_translate="false" value="Risco futuro de assalto: {robbery_risk}&lt;br&gt;O agente &quot;Capanga&quot; será usado&lt;br&gt;Popularidade: {popularity}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Não reforçar a segurança"/>
+      <text id="negative_artistic_text" need_translate="false" value="Seus seguranças, com medo de serem demitidos, passaram a cumprir suas funções com mais empenho."/>
+      <text id="negative_text" need_translate="false" value="Novo risco de assalto: {robbery_risk}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Sua segurança será suficiente em caso de problemas."/>
+      <text id="positive_text" need_translate="false" value="Novo risco de assalto: {robbery_risk}"/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Cada vez mais gente quer lucrar à custa dos outros: dizem que surgiram novas gangues no bairro. É hora de pensar em reforçar sua segurança!&lt;br&gt;&lt;br&gt;Risco de assalto: {robbery_risk}%"/>
+    <text id="name" need_translate="false" value="Reforço do sistema de segurança"/>
+  </hire_more_security>
+  <hostile_takeover>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário um chefe de polícia leal no estado de {unit_name}"/>
+      <text id="name" need_translate="false" value="Falar com o chefe de polícia"/>
+      <text id="negative_artistic_text" need_translate="false" value="Infelizmente, o chefe de polícia não conseguiu intervir e impedir a tomada da empresa. Talvez os invasores tivessem suas próprias alavancas sobre a polícia estadual."/>
+      <text id="negative_text" need_translate="false" value="A empresa está sendo tomada pela {company_raider}&lt;br&gt;Você perde sua participação e recebe {summ} pelas suas ações"/>
+      <text id="positive_artistic_text" need_translate="false" value="A polícia obrigou todas as pessoas não autorizadas a deixar a sala da diretoria e garantiu a segurança da empresa. Os invasores recuaram."/>
+      <text id="positive_text" need_translate="false" value="Os invasores recuaram."/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Headhunter»"/>
+      <text id="name" need_translate="false" value="Convencer os acionistas a não vender as ações"/>
+      <text id="negative_artistic_text" need_translate="false" value="As tentativas de convencer os acionistas a não ceder à pressão dos invasores fracassaram, e a tomada foi concluída."/>
+      <text id="negative_text" need_translate="false" value="A empresa está sendo tomada pela {company_raider}&lt;br&gt;Você perde sua participação e recebe {summ} pelas suas ações"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você conseguiu convencer os outros acionistas a não ceder à chantagem dos invasores, e o ataque deles fracassou."/>
+      <text id="positive_text" need_translate="false" value="O ataque dos invasores fracassou&lt;br&gt;{person_raider} agora considera você um inimigo"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Talvez tudo se resolva..."/>
+      <text id="negative_artistic_text" need_translate="false" value="Depois de ouvir seus argumentos sobre os problemas da empresa, o CEO apenas observou secamente que, em breve, a esses problemas pode se somar a busca por um novo diretor."/>
+      <text id="negative_text" need_translate="false" value="A empresa está sendo tomada pela {company_raider}.&lt;br&gt;Você foi obrigado a vender toda a sua participação por {summ}."/>
+      <text id="positive_artistic_text" need_translate="false" value="O plano dos invasores não foi bom o bastante. O CEO conseguiu retomar o controle da gestão, e a ameaça foi afastada."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências."/>
+    </answer_3>
+    <text id="description" need_translate="false" value="O CEO da empresa {company_name}, na qual você possui {your_part}, informou que homens armados desconhecidos tomaram o controle das instalações da empresa, e um dos acionistas, {raider}, ocupou a sala da diretoria e está administrando a empresa. Parece uma tomada violenta da empresa. Se nada for feito, em poucos dias a empresa será tomada por uma corporação hostil."/>
+    <text id="name" need_translate="false" value="Tentativa de tomada hostil"/>
+  </hostile_takeover>
+  <increase_ceo_salary>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Discutir o novo salário"/>
+      <text id="negative_artistic_text" need_translate="false" value="Seu gestor foi irredutível quanto ao valor, e você teve de ceder. Ele ficou muito satisfeito com a promoção."/>
+      <text id="negative_text" need_translate="false" value="O salário do CEO aumentou em {company_profit_change}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Depois de discutir o valor, vocês chegaram a um meio-termo. O gestor ficou satisfeito com a promoção."/>
+      <text id="positive_text" need_translate="false" value="O salário do CEO aumentou em {company_profit_change}&lt;br&gt;Lealdade de {person}&lt;br&gt;{loyalty1}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Headhunter»"/>
+      <text id="name" need_translate="false" value="Chamar um headhunter"/>
+      <text id="negative_artistic_text" need_translate="false" value="O headhunter foi eloquente: o gestor aceitou adiar a conversa sobre a promoção, mas a relação com você azedou."/>
+      <text id="negative_text" need_translate="false" value="O agente «Headhunter» será usado&lt;br&gt;Lealdade de {person}&lt;br&gt;{loyalty1}"/>
+      <text id="positive_artistic_text" need_translate="false" value="O headhunter conseguiu convencer o CEO a não insistir no aumento, falando sobre o mercado de trabalho atual e os salários de CEOs em outras empresas."/>
+      <text id="positive_text" need_translate="false" value="O agente «Headhunter» será usado."/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Prometer pensar no assunto"/>
+      <text id="negative_artistic_text" need_translate="false" value="Depois de ouvir seus argumentos sobre os problemas da empresa, o CEO apenas observou secamente que, em breve, a esses problemas pode se somar a busca por um novo CEO."/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value="Você inventou uma dúzia de motivos pelos quais a empresa não pode aumentar o salário do gestor agora. Ele ficou claramente insatisfeito, mas aceitou esperar um pouco."/>
+      <text id="positive_text" need_translate="false" value=""/>
+    </answer_3>
+    <text id="description" need_translate="false" value="{person}, CEO da {company}, pediu a você um aumento de salário de {salary_bonus}.&lt;br&gt;O aumento reduzirá o lucro da empresa em {company_profit_change}, mas manterá a lealdade do seu CEO em um nível adequado para um trabalho eficiente. Se você ignorar o CEO o tempo todo, a lealdade dele cedo ou tarde cairá ao mínimo, ele deixará o cargo e passará a tratar você com hostilidade."/>
+    <text id="name" need_translate="false" value="Aumento de salário"/>
+  </increase_ceo_salary>
+  <invitation_to_brothel>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value="({money})"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Aceitar"/>
+      <text id="negative_artistic_text" need_translate="false" value="Alguém flagrou você nesse lugar, e o público ficou sabendo."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Durante a visita, uma das moças deixou escapar os gostos pervertidos de um frequentador assíduo da elite local, {person_b}."/>
+      <text id="positive_text" need_translate="false" value="Material comprometedor obtido sobre {person_b}."/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Cortesã&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessária uma &quot;Cortesã&quot;"/>
+      <text id="name" need_translate="false" value="Ir com uma acompanhante"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você teve uma noite agradável em boa companhia."/>
+      <text id="negative_text" need_translate="false" value="Não há consequências."/>
+      <text id="positive_artistic_text" need_translate="false" value="Durante a visita, uma das moças deixou escapar os gostos pervertidos de um frequentador assíduo da elite local, {person_b}."/>
+      <text id="positive_text" need_translate="false" value="Material comprometedor obtido sobre {person_b}."/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário o traço de personalidade &quot;Religioso&quot;"/>
+      <text id="name" need_translate="false" value="Apelar aos dogmas religiosos"/>
+      <text id="negative_artistic_text" need_translate="false" value="Seus argumentos ofenderam {person_a}, e a atitude em relação a você piorou."/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value="Sua devoção impressionou muito {person_a}."/>
+      <text id="positive_text" need_translate="false" value="Reputação: {reputation}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Recusar"/>
+      <text id="negative_artistic_text" need_translate="false" value="Sua recusa ofendeu muito {person_a}."/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value="Sua recusa foi recebida com tranquilidade por {person_a}."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Em uma conversa particular, {person_a} descreveu com bastante cor os encantos das sacerdotisas do amor locais e ainda sugeriu visitar juntos um dos bordéis da cidade. Dizem que até {post} {person_b} frequenta o lugar de vez em quando."/>
+    <text id="name" need_translate="false" value="Aliviar a tensão"/>
+  </invitation_to_brothel>
+  <participation_in_horse_racing>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Apostar no favorito (Ganho x{bet_coef})"/>
+      <text id="negative_artistic_text" need_translate="false" value="O cavalo em que você apostou perdeu a corrida."/>
+      <text id="negative_text" need_translate="false" value="Perda: {loss}"/>
+      <text id="positive_artistic_text" need_translate="false" value="O cavalo em que você apostou venceu a corrida."/>
+      <text id="positive_text" need_translate="false" value="Ganho: {winning}"/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Apostar no azarão (Ganho x{bet_coef})"/>
+      <text id="negative_artistic_text" need_translate="false" value="O cavalo em que você apostou perdeu a corrida."/>
+      <text id="negative_text" need_translate="false" value="Perda: {loss}"/>
+      <text id="positive_artistic_text" need_translate="false" value="O cavalo em que você apostou venceu a corrida."/>
+      <text id="positive_text" need_translate="false" value="Ganho: {winning}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário um item de luxo &quot;Cavalo&quot;"/>
+      <text id="name" need_translate="false" value="Apostar no seu cavalo (Ganho x{bet_coef})"/>
+      <text id="negative_artistic_text" need_translate="false" value="O cavalo em que você apostou perdeu a corrida."/>
+      <text id="negative_text" need_translate="false" value="Perda: {loss}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Seu cavalo, no qual você apostou, venceu a corrida. A fama que você obtém por ser dono desse cavalo aumentou."/>
+      <text id="positive_text" need_translate="false" value="Ganho: {winning}&lt;br&gt;Fama: {popularity}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Recusar a aposta"/>
+      <text id="negative_artistic_text" need_translate="false" value="Sua recusa ofendeu {person}."/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value="Sua recusa foi recebida com tranquilidade por {person}."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Você foi a uma corrida de cavalos realizada no hipódromo local. Estavam sendo aceitas apostas na vitória dos cavalos, e {person} convidou você a participar."/>
+    <text id="name" need_translate="false" value="Visita ao hipódromo"/>
+  </participation_in_horse_racing>
+  <robbery>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Entregar ao ladrão o que ele pede"/>
+      <text id="negative_artistic_text" need_translate="false" value="O ladrão levou todo o dinheiro disponível e desapareceu."/>
+      <text id="negative_text" need_translate="false" value="Dinheiro: {expense}"/>
+      <text id="positive_artistic_text" need_translate="false" value="O ladrão levou parte do dinheiro disponível e desapareceu."/>
+      <text id="positive_text" need_translate="false" value="Dinheiro: {expense}"/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Capanga&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessário um &quot;Capanga&quot;"/>
+      <text id="name" need_translate="false" value="Mencionar um bandido famoso"/>
+      <text id="negative_artistic_text" need_translate="false" value="O ladrão levou todo o dinheiro disponível e desapareceu."/>
+      <text id="negative_text" need_translate="false" value="O agente &quot;Capanga&quot; será usado&lt;br&gt;Dinheiro: {expense}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Ao ouvir o nome conhecido, o ladrão sumiu às pressas pela janela aberta."/>
+      <text id="positive_text" need_translate="false" value="O agente &quot;Capanga&quot; será usado.&lt;br&gt;Não há consequências."/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Reagir ao ladrão"/>
+      <text id="negative_artistic_text" need_translate="false" value="O criminoso feriu você antes de fugir às pressas. Você não poderá cuidar dos seus negócios por 2 trimestres."/>
+      <text id="negative_text" need_translate="false" value="Tratamento: {treatment} trimestre(s)."/>
+      <text id="positive_artistic_text" need_translate="false" value="O ladrão sumiu às pressas pela janela aberta."/>
+      <text id="positive_text" need_translate="false" value="Reputação: {reputation}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Defender-se com a arma pessoal"/>
+      <text id="negative_artistic_text" need_translate="false" value="O ladrão feriu você gravemente antes de fugir às pressas."/>
+      <text id="negative_text" need_translate="false" value="Você ficará fora dos negócios por {treatment} trimestre(s)."/>
+      <text id="positive_artistic_text" need_translate="false" value="O ladrão feriu você de leve antes de fugir às pressas."/>
+      <text id="positive_text" need_translate="false" value="Você ficará fora dos negócios por {treatment} trimestre(s)."/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Uma figura desconhecida saiu do canto escuro do seu escritório. Uma voz rouca sugeriu que você entregasse por bem todos os objetos de valor. Não há tempo para descobrir como o ladrão conseguiu chegar até você sem que nenhum dos seus seguranças estivesse por perto. Você precisa agir rápido."/>
+    <text id="name" need_translate="false" value="A bolsa ou a vida"/>
+  </robbery>
+  <scandal_after_article>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Publicar uma retratação e pedir desculpas"/>
+      <text id="negative_artistic_text" need_translate="false" value="A reputação comercial da publicação foi bastante prejudicada, apesar do pedido de desculpas e da retratação publicados."/>
+      <text id="negative_text" need_translate="false" value="Prestígio da empresa de mídia {publisher} {goodwill}"/>
+      <text id="positive_artistic_text" need_translate="false" value="O pedido de desculpas e a retratação das informações difamatórias evitaram um processo, mas a reputação comercial da publicação foi prejudicada"/>
+      <text id="positive_text" need_translate="false" value="Prestígio da empresa de mídia {publisher} {goodwill}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Contratar advogados e ir ao tribunal"/>
+      <text id="negative_artistic_text" need_translate="false" value="O tribunal decidiu a favor do autor e determinou uma indenização por danos morais."/>
+      <text id="negative_text" need_translate="false" value="Prestígio da empresa de mídia {publisher} {goodwill}&lt;br&gt;Multa: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Os advogados provaram que o artigo não continha informações difamatórias e não causou nenhum dano real ao autor"/>
+      <text id="positive_text" need_translate="false" value="A reputação comercial da empresa de mídia não será afetada"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Capanga&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente Capanga"/>
+      <text id="name" need_translate="false" value="Ameaçar com problemas"/>
+      <text id="negative_artistic_text" need_translate="false" value="As ameaças não funcionaram, e o caso foi ao tribunal, que decidiu a favor do autor"/>
+      <text id="negative_text" need_translate="false" value="Prestígio da empresa de mídia {publisher} {goodwill}&lt;br&gt;Multa: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Um pedido gentil de uns caras durões com um Colt na mão pode fazer milagres!"/>
+      <text id="positive_text" need_translate="false" value="As queixas foram retiradas"/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Em resposta a um artigo recente publicado por {publisher}, os advogados de {target} ameaçam processar a editora se não for publicada uma retratação pública com pedido de desculpas."/>
+    <text id="name" need_translate="false" value="Escândalo na imprensa!"/>
+  </scandal_after_article>
+  <scandalous_article>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value=""/>
+      <text id="negative_artistic_text" need_translate="false" value=""/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value=""/>
+      <text id="positive_text" need_translate="false" value=""/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="({money})"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Subornar o editor"/>
+      <text id="negative_artistic_text" need_translate="false" value="O editor recusou o suborno e ainda o mencionou no artigo, o que prejudicou ainda mais sua reputação."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Com sua reputação em jogo, não se economiza dinheiro. Você manda ao editor um suborno que o convence a desistir da ideia."/>
+      <text id="positive_text" need_translate="false" value="O artigo não foi publicado.&lt;br&gt;Dinheiro: {money}"/>
+    </answer_1>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Jornalista&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Jornalista»"/>
+      <text id="name" need_translate="false" value="Escrever um artigo antes"/>
+      <text id="negative_artistic_text" need_translate="false" value="Ao publicar uma opinião alternativa, você criou mais perguntas do que respostas sobre a sua pessoa. Dá para dizer que aparou as arestas, mas a ambiguidade prejudica sua reputação."/>
+      <text id="negative_text" need_translate="false" value="O agente «Jornalista» será usado&lt;br&gt;Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Com a ajuda de um jornalista conhecido, você publica uma opinião alternativa, compensando o estrago de um artigo devastador. Com isso, sua reputação não foi prejudicada."/>
+      <text id="positive_text" need_translate="false" value="O agente «Jornalista» será usado"/>
+    </answer_3>
+    <answer_4>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Ignorar os boatos"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você errou ao deixar os boatos correrem soltos. O artigo publicado colocou você numa situação pior."/>
+      <text id="negative_text" need_translate="false" value="Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você decidiu não fazer nada. Afinal, é só um boato. E foi isso mesmo: não houve uma palavra sobre você na edição seguinte do jornal."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências."/>
+    </answer_4>
+    <text id="description" need_translate="false" value="Você ouviu boatos de que o jornal local de {state} vai publicar um artigo caluniando você, o que vai virar a população contra você. O que você vai fazer?"/>
+    <text id="name" need_translate="false" value="Artigo escandaloso"/>
+  </scandalous_article>
+  <social_event>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Ir sozinho"/>
+      <text id="negative_artistic_text" need_translate="false" value="Todos os convidados da recepção vieram acompanhados. A noite inteira, {random_official_post} do estado de {state} ficou fazendo piadinhas sobre a sua solidão."/>
+      <text id="negative_text" need_translate="false" value="{loyalty} {random_official_post} do estado de {state}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Algumas boas piadas, uma conversa educada, e {random_official_post} do estado de {state} ficou mais leal a você."/>
+      <text id="positive_text" need_translate="false" value="{loyalty} {random_official_post} do estado de {state}"/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Cortesã&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessária uma &quot;Cortesã&quot;"/>
+      <text id="name" need_translate="false" value="Levar uma acompanhante"/>
+      <text id="negative_artistic_text" need_translate="false" value="Infelizmente, {random_official_post} do estado de {state} não compareceu ao sarau."/>
+      <text id="negative_text" need_translate="false" value="Não há consequências."/>
+      <text id="positive_artistic_text" need_translate="false" value="Encantado com a beleza da sua charmosa acompanhante, {random_official_post} de {state} ficou mais leal a você."/>
+      <text id="positive_text" need_translate="false" value="{loyalty} {random_official_post} do estado de {state}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Alegar falta de tempo"/>
+      <text id="negative_artistic_text" need_translate="false" value="Sua recusa ofendeu {person}"/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value="Sua recusa foi recebida com tranquilidade por {person}"/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_2>
+    <text id="description" need_translate="false" value="Você recebeu de {person} um convite para um evento social. A carta também menciona que {random_official_post} {random_official_name}, do estado de {state}, prometeu arranjar tempo para comparecer ao sarau. É uma ótima chance de se destacar e criar uma relação útil com um representante do poder público."/>
+    <text id="name" need_translate="false" value="Evento social"/>
+  </social_event>
+  <support_in_the_confrontation>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Apoiar {person_a}"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você manteve a simpatia de um personagem leal, mas sua relação com {person_b} ficou irremediavelmente estragada, e, além disso, os outros convidados claramente não gostaram das suas palavras."/>
+      <text id="negative_text" need_translate="false" value="{person_b} é seu inimigo&lt;br&gt;Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Manipulando os fatos com habilidade, você convenceu {person_b} de que {person_a} tinha razão e ainda melhorou sua relação."/>
+      <text id="positive_text" need_translate="false" value="{person_b} {loyalty_b}"/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Apoiar {person_b}"/>
+      <text id="negative_artistic_text" need_translate="false" value="{person_b} ficou grato pelo seu apoio, mas sua relação com {person_a} ficou irremediavelmente prejudicada."/>
+      <text id="negative_text" need_translate="false" value="{person_b} {loyalty_b}&lt;br&gt;{person_a} é seu inimigo"/>
+      <text id="positive_artistic_text" need_translate="false" value="{person_b} ficou grato pelo seu apoio, mas sua relação com {person_a} foi abalada."/>
+      <text id="positive_text" need_translate="false" value="{person_b} {loyalty_b}&lt;br&gt;{person_a} {loyalty_a}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value="({influence})"/>
+      <text id="hint_text" need_translate="false" value="Influência insuficiente"/>
+      <text id="name" need_translate="false" value="Tentar reconciliar os dois"/>
+      <text id="negative_artistic_text" need_translate="false" value="Você convenceu os dois de que um bate-boca público não é digno de cavalheiros."/>
+      <text id="negative_text" need_translate="false" value="Sem consequências"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você conseguiu encontrar um meio-termo, e todos ficaram satisfeitos."/>
+      <text id="positive_text" need_translate="false" value="{person_b} {loyalty_b}&lt;br&gt;Reputação: {reputation}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Recusar-se a interferir na discussão"/>
+      <text id="negative_artistic_text" need_translate="false" value="Os dois lados viram sua neutralidade com maus olhos."/>
+      <text id="negative_text" need_translate="false" value="{person_a} {loyalty_a}&lt;br&gt;{person_b} {loyalty_b}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Os dois lados reagiram com calma à sua neutralidade."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências."/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Você foi a um evento social organizado por {person_b}. No meio da noite, começou uma discussão entre {person_a} e {person_b} sobre um conflito antigo. Pelos detalhes que ouviu, você percebeu que {person_a}, que é leal a você, estava errado nessa situação. Os dois pediram que você desse sua opinião sobre o conflito."/>
+    <text id="name" need_translate="false" value="Escolhendo um lado"/>
+  </support_in_the_confrontation>
+  <tax_problems>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value=""/>
+      <text id="negative_artistic_text" need_translate="false" value=""/>
+      <text id="negative_text" need_translate="false" value=""/>
+      <text id="positive_artistic_text" need_translate="false" value=""/>
+      <text id="positive_text" need_translate="false" value=""/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="{money}"/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Oferecer suborno"/>
+      <text id="negative_artistic_text" need_translate="false" value="O suborno enviado foi recusado e usado contra você. É tarde demais para fazer outra coisa: você terá de pagar uma multa."/>
+      <text id="negative_text" need_translate="false" value="Dinheiro: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você entrega ao tesoureiro um envelope com uma quantia impressionante. Pelo visto, o tesoureiro ficou satisfeito com o suborno."/>
+      <text id="positive_text" need_translate="false" value="Dinheiro: {money}&lt;br&gt;{person} {loyalty}"/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value="({influence})"/>
+      <text id="hint_text" need_translate="false" value="Influência insuficiente"/>
+      <text id="name" need_translate="false" value="Resolver pessoalmente"/>
+      <text id="negative_artistic_text" need_translate="false" value="Assim que começou a mexer na contabilidade, você logo encontrou vários erros e inconsistências. É tarde demais para fazer qualquer coisa: será preciso pagar uma multa."/>
+      <text id="negative_text" need_translate="false" value="{influence}&lt;br&gt;Dinheiro: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você decide dedicar todo o seu tempo livre à contabilidade para eliminar a possibilidade de multa. Depois de um trabalho tão exaustivo, você obviamente precisa de descanso."/>
+      <text id="positive_text" need_translate="false" value="{influence}&lt;br&gt;Não há consequências."/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value="(Agente &quot;Financista&quot;)"/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Financista»"/>
+      <text id="name" need_translate="false" value="Encontrar uma brecha legal"/>
+      <text id="negative_artistic_text" need_translate="false" value="Infelizmente, o financista não pôde ajudar. Você terá de pagar uma multa."/>
+      <text id="negative_text" need_translate="false" value="O agente &quot;Financista&quot; será usado&lt;br&gt;Dinheiro: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Usando as habilidades de um financista, você encontra brechas na lei para escapar da punição."/>
+      <text id="positive_text" need_translate="false" value="O agente &quot;Financista&quot; será usado"/>
+    </answer_3>
+    <answer_4>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Torcer para que seja um engano"/>
+      <text id="negative_artistic_text" need_translate="false" value="Uma investigação simples encontrou inconsistências graves nas suas declarações de impostos."/>
+      <text id="negative_text" need_translate="false" value="Dinheiro: {money}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Você acha que cavar alguma coisa contra você é perda de tempo. E é mesmo: seu cuidado com as contas não deu nenhuma chance ao tesoureiro."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências"/>
+    </answer_4>
+    <text id="description" need_translate="false" value="O tesoureiro do estado de {state}, {person}, está interessado no histórico do pagamento dos seus impostos. Obviamente, a autoridade está procurando erros para comprometer você. Se os esforços dele derem certo, tudo pode terminar em uma multa pesada de {money}. O que você vai fazer?"/>
+    <text id="name" need_translate="false" value="Problemas com impostos"/>
+  </tax_problems>
+  <threat_from_ultras>
+    <answer_0>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value=""/>
+      <text id="name" need_translate="false" value="Posicionar-se contra a discriminação racial"/>
+      <text id="negative_artistic_text" need_translate="false" value="Talvez tenha faltado eloquência: os conflitos nas empresas do estado não param."/>
+      <text id="negative_text" need_translate="false" value="Durante um ano, a rotatividade de pessoal em {state_name} será {tek} vezes maior"/>
+      <text id="positive_artistic_text" need_translate="false" value="Seu discurso surtiu efeito e tranquilizou os trabalhadores de diferentes raças e nacionalidades."/>
+      <text id="positive_text" need_translate="false" value="Não há consequências negativas.&lt;br&gt;Reputação: {reputation}"/>
+    </answer_0>
+    <answer_1>
+      <text id="expense_text" need_translate="false" value="(Agente «Atirador»)"/>
+      <text id="hint_text" need_translate="false" value="É necessário o agente «Atirador»"/>
+      <text id="name" need_translate="false" value="Sem líder, sem problema..."/>
+      <text id="negative_artistic_text" need_translate="false" value="O atentado contra o líder da extrema direita teve o efeito de uma bomba."/>
+      <text id="negative_text" need_translate="false" value="Durante um ano, a rotatividade de pessoal em {state_name} será {tek} vezes maior"/>
+      <text id="positive_artistic_text" need_translate="false" value="Um bom tiro no líder dos radicais é a forma mais rápida de acalmar seus cúmplices."/>
+      <text id="positive_text" need_translate="false" value="O líder do movimento foi eliminado. Os conflitos nas empresas se acalmaram sozinhos."/>
+    </answer_1>
+    <answer_2>
+      <text id="expense_text" need_translate="false" value=""/>
+      <text id="hint_text" need_translate="false" value="É necessário um chefe de polícia leal."/>
+      <text id="name" need_translate="false" value="Acionar o chefe de polícia"/>
+      <text id="negative_artistic_text" need_translate="false" value="O uso da polícia e a prisão dos líderes da &quot;Irmandade Branca&quot; causaram comoção pública."/>
+      <text id="negative_text" need_translate="false" value="Durante um ano, a rotatividade em {state_name} será {tek} vezes maior&lt;br&gt;Há uma greve na {company_name}!"/>
+      <text id="positive_artistic_text" need_translate="false" value="É trabalho da polícia impedir incidentes como esse! E ela faz isso com sucesso."/>
+      <text id="positive_text" need_translate="false" value="A polícia conseguiu impedir a escalada do conflito.&lt;br&gt;Reputação: {reputation}"/>
+    </answer_2>
+    <answer_3>
+      <text id="expense_text" need_translate="false" value="({money})"/>
+      <text id="hint_text" need_translate="false" value="O dinheiro é gasto"/>
+      <text id="name" need_translate="false" value="Dar dinheiro aos líderes"/>
+      <text id="negative_artistic_text" need_translate="false" value="O líder dos ativistas condenou você publicamente por tentar subornar os &quot;irmãos brancos&quot; e rejeitou qualquer negociação"/>
+      <text id="negative_text" need_translate="false" value="Durante um ano, a rotatividade de pessoal em {state_name} ficará {tek} vezes maior&lt;br&gt;Reputação: {reputation}"/>
+      <text id="positive_artistic_text" need_translate="false" value="Uma contribuição generosa no bolso do líder em troca de &quot;silêncio&quot; resolveu o problema. Ainda que só temporariamente..."/>
+      <text id="positive_text" need_translate="false" value="Sem consequências negativas.&lt;br&gt;Reputação: {reputation}&lt;br&gt;Dinheiro: {money}"/>
+    </answer_3>
+    <text id="description" need_translate="false" value="Após um conflito racial entre trabalhadores de uma fábrica em {state_name}, o líder de uma célula local de uma organização racista de extrema direita convocou todos os simpatizantes da &quot;Irmandade Branca&quot; a expulsar trabalhadores negros e imigrantes de outros países, tirando-lhes o emprego. Isso ameaça provocar tumultos e agravar os conflitos raciais. Se nada for feito, a rotatividade nas suas empresas em {state_name} vai disparar."/>
+    <text id="name" need_translate="false" value="Assédio racial"/>
+  </threat_from_ultras>
+</random_events>

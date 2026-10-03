@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company_technologies>
+  <technology_0>
+    <text id="description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Eficácia da publicidade"/>
+  </technology_0>
+  <technology_10>
+    <text id="description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Manutenção"/>
+  </technology_10>
+  <technology_1>
+    <text id="description" need_translate="false" value="Se seus trabalhadores gostarem de verdade de estar na sua empresa, a produtividade aumentará"/>
+    <text id="name" need_translate="false" value="Motivação"/>
+  </technology_1>
+  <technology_11>
+    <text id="description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Automação"/>
+  </technology_11>
+  <technology_2>
+    <text id="description" need_translate="false" value="Condições de trabalho duras afetam a produtividade dos trabalhadores e podem levar a greves"/>
+    <text id="name" need_translate="false" value="Condições de trabalho"/>
+  </technology_2>
+  <technology_3>
+    <text id="description" need_translate="false" value="Priorizar a segurança no trabalho reduzirá o índice de acidentes."/>
+    <text id="name" need_translate="false" value="Segurança"/>
+  </technology_3>
+  <technology_4>
+    <text id="description" need_translate="false" value="Os clientes valorizam padrões de qualidade mais altos e pagam mais por eles."/>
+    <text id="name" need_translate="false" value="Qualidade"/>
+  </technology_4>
+  <technology_5>
+    <text id="description" need_translate="false" value="O prestígio representa a imagem da empresa aos olhos do governo, de outras empresas e do público em geral."/>
+    <text id="name" need_translate="false" value="Prestígio"/>
+  </technology_5>
+  <technology_6>
+    <text id="description" need_translate="false" value="Melhorar as práticas de recrutamento reduzirá gradualmente os custos com funcionários ao longo do tempo"/>
+    <text id="name" need_translate="false" value="Contratação"/>
+  </technology_6>
+  <technology_7>
+    <text id="description" need_translate="false" value="Desenvolver a logística melhorará a distribuição e a demanda pelos produtos e serviços da empresa."/>
+    <text id="name" need_translate="false" value="Logística"/>
+  </technology_7>
+  <technology_8>
+    <text id="description" need_translate="false" value="Esta estratégia busca aumentar os limites de emissão de ações e títulos, além de valorizar os títulos (reduzindo, assim, as taxas de juros)."/>
+    <text id="name" need_translate="false" value="Atratividade para investimentos"/>
+  </technology_8>
+  <technology_9>
+    <text id="description" need_translate="false" value="Práticas aprimoradas de refino e processamento reduzem efetivamente os insumos necessários, diminuindo os custos."/>
+    <text id="name" need_translate="false" value="Qualidade do refino"/>
+  </technology_9>
+</company_technologies>
